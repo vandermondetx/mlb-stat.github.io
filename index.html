@@ -59,32 +59,53 @@
 <body>
   <h1>MLB Matchups</h1>
   <div class="tab">
-    <button class="tablinks" onclick="openTab(event, 'Game')" id="defaultOpen">Game Matchups</button>
-    <button class="tablinks" onclick="openTab(event, 'BP')">Batter Pitcher Matchups</button>
+    <button class="tablinks" onclick="openTab(event, 'TodayGame')" id="defaultOpen">Today Game Matchups</button>
+    <button class="tablinks" onclick="openTab(event, 'TodayBP')">Today Batter-Pitcher Matchups</button>
+    <button class="tablinks" onclick="openTab(event, 'TomorrowGame')">Tomorrow Game Matchups</button>
+    <button class="tablinks" onclick="openTab(event, 'TomorrowBP')">Tomorrow Batter-Pitcher Matchups</button>
   </div>
   
-  <div id="Game" class="tabcontent">
+  <div id="TodayGame" class="tabcontent">
     <div class="slideshow-container">
-      <img id="gameSlide" src="today/Angels_vs_Cardinals_lineup.png" alt="Game Matchups">
+      <img id="todayGameSlide" src="today_game/Angels_vs_Cardinals_today.png" alt="Today Game Matchups">
     </div>
     <div>
-      <button class="nav-button" onclick="prevGame()">Previous</button>
-      <button class="nav-button" onclick="nextGame()">Next</button>
+      <button class="nav-button" onclick="prevTodayGame()">Previous</button>
+      <button class="nav-button" onclick="nextTodayGame()">Next</button>
     </div>
   </div>
   
-  <div id="BP" class="tabcontent">
+  <div id="TodayBP" class="tabcontent">
     <div class="slideshow-container">
-      <img id="bpSlide" src="top_50_favorable_plot.png" alt="Batter Pitcher Matchups">
+      <img id="todayBPSlide" src="today_bp/top_50_favorable_today.png" alt="Today Batter-Pitcher Matchups">
     </div>
     <div>
-      <button class="nav-button" onclick="prevBP()">Previous</button>
-      <button class="nav-button" onclick="nextBP()">Next</button>
+      <button class="nav-button" onclick="prevTodayBP()">Previous</button>
+      <button class="nav-button" onclick="nextTodayBP()">Next</button>
+    </div>
+  </div>
+  
+  <div id="TomorrowGame" class="tabcontent">
+    <div class="slideshow-container">
+      <img id="tomorrowGameSlide" src="tomorrow_game/Angels_vs_Cardinals_tomorrow.png" alt="Tomorrow Game Matchups">
+    </div>
+    <div>
+      <button class="nav-button" onclick="prevTomorrowGame()">Previous</button>
+      <button class="nav-button" onclick="nextTomorrowGame()">Next</button>
+    </div>
+  </div>
+  
+  <div id="TomorrowBP" class="tabcontent">
+    <div class="slideshow-container">
+      <img id="tomorrowBPSlide" src="tomorrow_bp/top_50_favorable_tomorrow.png" alt="Tomorrow Batter-Pitcher Matchups">
+    </div>
+    <div>
+      <button class="nav-button" onclick="prevTomorrowBP()">Previous</button>
+      <button class="nav-button" onclick="nextTomorrowBP()">Next</button>
     </div>
   </div>
   
   <script>
-    // Tab functionality
     function openTab(evt, tabName) {
       var i, tabcontent, tablinks;
       tabcontent = document.getElementsByClassName("tabcontent");
@@ -98,37 +119,62 @@
       document.getElementById(tabName).style.display = "block";
       evt.currentTarget.className += " active";
     }
-    // Set default tab
     document.getElementById("defaultOpen").click();
     
-    // Game Matchups slideshow
-    var gameImages = ["today/Angels_vs_Cardinals_lineup.png", "today/Athletics_vs_Cubs_lineup.png", "today/Braves_vs_Dodgers_lineup.png", "today/Cardinals_vs_Angels_lineup.png", "today/Dodgers_vs_Braves_lineup.png", "today/Guardians_vs_Padres_lineup.png", "today/Marlins_vs_Mets_lineup.png", "today/Nationals_vs_Blue Jays_lineup.png", "today/Padres_vs_Guardians_lineup.png", "today/Pirates_vs_Rays_lineup.png", "today/Rays_vs_Pirates_lineup.png", "today/Reds_vs_Rangers_lineup.png", "today/Royals_vs_Brewers_lineup.png", "today/Twins_vs_White Sox_lineup.png"];
-    var gameCurrentIndex = 0;
-    function showGameImage(index) {
-      document.getElementById("gameSlide").src = gameImages[index];
+    var todayGameImages = ["today_game/Angels_vs_Cardinals_today.png", "today_game/Athletics_vs_Cubs_today.png", "today_game/Braves_vs_Dodgers_today.png", "today_game/Cardinals_vs_Angels_today.png", "today_game/Dodgers_vs_Braves_today.png", "today_game/Guardians_vs_Padres_today.png", "today_game/Marlins_vs_Mets_today.png", "today_game/Nationals_vs_Blue Jays_today.png", "today_game/Padres_vs_Guardians_today.png", "today_game/Pirates_vs_Rays_today.png", "today_game/Rays_vs_Pirates_today.png", "today_game/Reds_vs_Rangers_today.png", "today_game/Royals_vs_Brewers_today.png", "today_game/Twins_vs_White Sox_today.png"];
+    var todayGameIndex = 0;
+    function showTodayGameImage(index) {
+      document.getElementById("todayGameSlide").src = todayGameImages[index];
     }
-    function nextGame() {
-      gameCurrentIndex = (gameCurrentIndex + 1) % gameImages.length;
-      showGameImage(gameCurrentIndex);
+    function nextTodayGame() {
+      todayGameIndex = (todayGameIndex + 1) % todayGameImages.length;
+      showTodayGameImage(todayGameIndex);
     }
-    function prevGame() {
-      gameCurrentIndex = (gameCurrentIndex - 1 + gameImages.length) % gameImages.length;
-      showGameImage(gameCurrentIndex);
+    function prevTodayGame() {
+      todayGameIndex = (todayGameIndex - 1 + todayGameImages.length) % todayGameImages.length;
+      showTodayGameImage(todayGameIndex);
     }
     
-    // Batter Pitcher Matchups slideshow
-    var bpImages = ["top_50_favorable_plot.png", "top_50_unfavorable_plot.png"];
-    var bpCurrentIndex = 0;
-    function showBPImage(index) {
-      document.getElementById("bpSlide").src = bpImages[index];
+    var todayBPImages = ["today_bp/top_50_favorable_today.png", "today_bp/top_50_unfavorable_today.png"];
+    var todayBPIndex = 0;
+    function showTodayBPImage(index) {
+      document.getElementById("todayBPSlide").src = todayBPImages[index];
     }
-    function nextBP() {
-      bpCurrentIndex = (bpCurrentIndex + 1) % bpImages.length;
-      showBPImage(bpCurrentIndex);
+    function nextTodayBP() {
+      todayBPIndex = (todayBPIndex + 1) % todayBPImages.length;
+      showTodayBPImage(todayBPIndex);
     }
-    function prevBP() {
-      bpCurrentIndex = (bpCurrentIndex - 1 + bpImages.length) % bpImages.length;
-      showBPImage(bpCurrentIndex);
+    function prevTodayBP() {
+      todayBPIndex = (todayBPIndex - 1 + todayBPImages.length) % todayBPImages.length;
+      showTodayBPImage(todayBPIndex);
+    }
+    
+    var tomorrowGameImages = ["tomorrow_game/Angels_vs_Cardinals_tomorrow.png", "tomorrow_game/Athletics_vs_Cubs_tomorrow.png", "tomorrow_game/Braves_vs_Dodgers_tomorrow.png", "tomorrow_game/Cardinals_vs_Angels_tomorrow.png", "tomorrow_game/Diamondbacks_vs_Yankees_tomorrow.png", "tomorrow_game/Giants_vs_Astros_tomorrow.png", "tomorrow_game/Mariners_vs_Tigers_tomorrow.png", "tomorrow_game/Mets_vs_Marlins_tomorrow.png", "tomorrow_game/Padres_vs_Guardians_tomorrow.png", "tomorrow_game/Rangers_vs_Reds_tomorrow.png", "tomorrow_game/Reds_vs_Rangers_tomorrow.png", "tomorrow_game/Tigers_vs_Mariners_tomorrow.png", "tomorrow_game/White Sox_vs_Twins_tomorrow.png"];
+    var tomorrowGameIndex = 0;
+    function showTomorrowGameImage(index) {
+      document.getElementById("tomorrowGameSlide").src = tomorrowGameImages[index];
+    }
+    function nextTomorrowGame() {
+      tomorrowGameIndex = (tomorrowGameIndex + 1) % tomorrowGameImages.length;
+      showTomorrowGameImage(tomorrowGameIndex);
+    }
+    function prevTomorrowGame() {
+      tomorrowGameIndex = (tomorrowGameIndex - 1 + tomorrowGameImages.length) % tomorrowGameImages.length;
+      showTomorrowGameImage(tomorrowGameIndex);
+    }
+    
+    var tomorrowBPImages = ["tomorrow_bp/top_50_favorable_tomorrow.png", "tomorrow_bp/top_50_unfavorable_tomorrow.png"];
+    var tomorrowBPIndex = 0;
+    function showTomorrowBPImage(index) {
+      document.getElementById("tomorrowBPSlide").src = tomorrowBPImages[index];
+    }
+    function nextTomorrowBP() {
+      tomorrowBPIndex = (tomorrowBPIndex + 1) % tomorrowBPImages.length;
+      showTomorrowBPImage(tomorrowBPIndex);
+    }
+    function prevTomorrowBP() {
+      tomorrowBPIndex = (tomorrowBPIndex - 1 + tomorrowBPImages.length) % tomorrowBPImages.length;
+      showTomorrowBPImage(tomorrowBPIndex);
     }
   </script>
 </body>
