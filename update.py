@@ -3,7 +3,9 @@
 Daily Update Script:
 1. Clears out old generated files.
 2. Scrapes data, generates matchup CSVs and PNG charts.
-3. Builds a GitHub Pages slideshow (index.html) with manual "Previous/Next" controls.
+3. Builds a GitHub Pages HTML page (index.html) that includes two tabs:
+     - "Game Matchups": a manual slideshow for PNGs in the "today" folder.
+     - "Batter Pitcher Matchups": a manual slideshow for PNGs not in the "today" folder.
 4. Resets git history and force-pushes a fresh commit containing only today's files.
 5. Prints your GitHub Pages URL for viewing the site.
 
@@ -36,7 +38,7 @@ import matplotlib.pyplot as plt
 # Set your GitHub Pages URL here (adjust if you are using a user site or project site)
 GITHUB_PAGES_URL = "https://<yourusername>.github.io"  # or "https://<yourusername>.github.io/<repo>"
 
-# Folder to store generated PNG files.
+# Folder to store generated PNG files (game charts).
 PNG_FOLDER = "today"
 
 # --------------------------
@@ -246,7 +248,7 @@ def scrape_and_generate_pngs():
     
     print(f"All plots have been saved in the '{PNG_FOLDER}' folder.")
     
-    # --- Build the Slideshow HTML ---
+    # --- Build the Slideshow HTML with Tabs ---
     build_slideshow(PNG_FOLDER)
 
 def determine_color(value):
@@ -261,17 +263,19 @@ def determine_color(value):
         return (1 - blue_intensity, 1 - blue_intensity, 1)
 
 def build_slideshow(png_folder):
-    """Scans the PNG folder and builds an index.html slideshow with manual controls."""
-    png_files = sorted([f for f in os.listdir(png_folder) if f.lower().endswith('.png')])
+    """
+    Builds an index.html page with two tabs:
+      - "Game Matchups": A slideshow of PNGs from the png_folder.
+      - "Batter Pitcher Matchups": A slideshow of PNGs from the repository root.
+    Both slideshows have manual "Previous" and "Next" controls.
+    """
+    # Get game matchup images (from the folder)
+    game_images = sorted([os.path.join(png_folder, f) for f in os.listdir(png_folder) if f.lower().endswith('.png')])
     
-    if not png_files:
-        print("No PNG files found in the folder:", png_folder)
-        return
+    # Get batter-pitcher matchup images (PNG files in the current directory)
+    bp_images = sorted([f for f in os.listdir('.') if f.lower().endswith('.png') and os.path.isfile(f)])
     
-    # Prepare a JavaScript array of file paths
-    img_paths = [os.path.join(png_folder, fname) for fname in png_files]
-    js_array = json.dumps(img_paths)
-    
+    # Build the HTML with simple tab functionality.
     html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -282,14 +286,37 @@ def build_slideshow(png_folder):
     body {{
       font-family: Arial, sans-serif;
       background: #f0f0f0;
-      text-align: center;
       margin: 0;
       padding: 20px;
+    }}
+    .tab {{
+      overflow: hidden;
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 20px;
+    }}
+    .tab button {{
+      background-color: inherit;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 14px 16px;
+      transition: 0.3s;
+      font-size: 17px;
+    }}
+    .tab button:hover {{
+      background-color: #ddd;
+    }}
+    .tab button.active {{
+      background-color: #ccc;
+    }}
+    .tabcontent {{
+      display: none;
     }}
     .slideshow-container {{
       max-width: 900px;
       margin: auto;
       position: relative;
+      text-align: center;
     }}
     img {{
       width: 100%;
@@ -309,26 +336,77 @@ def build_slideshow(png_folder):
 </head>
 <body>
   <h1>MLB Matchups</h1>
-  <div class="slideshow-container">
-    <img id="slide" src="{img_paths[0]}" alt="Slideshow Image">
+  <div class="tab">
+    <button class="tablinks" onclick="openTab(event, 'Game')" id="defaultOpen">Game Matchups</button>
+    <button class="tablinks" onclick="openTab(event, 'BP')">Batter Pitcher Matchups</button>
   </div>
-  <div>
-    <button class="nav-button" onclick="prevImage()">Previous</button>
-    <button class="nav-button" onclick="nextImage()">Next</button>
+  
+  <div id="Game" class="tabcontent">
+    <div class="slideshow-container">
+      <img id="gameSlide" src="{game_images[0] if game_images else ''}" alt="Game Matchups">
+    </div>
+    <div>
+      <button class="nav-button" onclick="prevGame()">Previous</button>
+      <button class="nav-button" onclick="nextGame()">Next</button>
+    </div>
   </div>
+  
+  <div id="BP" class="tabcontent">
+    <div class="slideshow-container">
+      <img id="bpSlide" src="{bp_images[0] if bp_images else ''}" alt="Batter Pitcher Matchups">
+    </div>
+    <div>
+      <button class="nav-button" onclick="prevBP()">Previous</button>
+      <button class="nav-button" onclick="nextBP()">Next</button>
+    </div>
+  </div>
+  
   <script>
-    var images = {js_array};
-    var currentIndex = 0;
-    function showImage(index) {{
-      document.getElementById("slide").src = images[index];
+    // Tab functionality
+    function openTab(evt, tabName) {{
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {{
+        tabcontent[i].style.display = "none";
+      }}
+      tablinks = document.getElementsByClassName("tablinks");
+      for (i = 0; i < tablinks.length; i++) {{
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }}
+      document.getElementById(tabName).style.display = "block";
+      evt.currentTarget.className += " active";
     }}
-    function nextImage() {{
-      currentIndex = (currentIndex + 1) % images.length;
-      showImage(currentIndex);
+    // Set default tab
+    document.getElementById("defaultOpen").click();
+    
+    // Game Matchups slideshow
+    var gameImages = {json.dumps(game_images)};
+    var gameCurrentIndex = 0;
+    function showGameImage(index) {{
+      document.getElementById("gameSlide").src = gameImages[index];
     }}
-    function prevImage() {{
-      currentIndex = (currentIndex - 1 + images.length) % images.length;
-      showImage(currentIndex);
+    function nextGame() {{
+      gameCurrentIndex = (gameCurrentIndex + 1) % gameImages.length;
+      showGameImage(gameCurrentIndex);
+    }}
+    function prevGame() {{
+      gameCurrentIndex = (gameCurrentIndex - 1 + gameImages.length) % gameImages.length;
+      showGameImage(gameCurrentIndex);
+    }}
+    
+    // Batter Pitcher Matchups slideshow
+    var bpImages = {json.dumps(bp_images)};
+    var bpCurrentIndex = 0;
+    function showBPImage(index) {{
+      document.getElementById("bpSlide").src = bpImages[index];
+    }}
+    function nextBP() {{
+      bpCurrentIndex = (bpCurrentIndex + 1) % bpImages.length;
+      showBPImage(bpCurrentIndex);
+    }}
+    function prevBP() {{
+      bpCurrentIndex = (bpCurrentIndex - 1 + bpImages.length) % bpImages.length;
+      showBPImage(bpCurrentIndex);
     }}
   </script>
 </body>
@@ -344,19 +422,19 @@ def build_slideshow(png_folder):
 # --------------------------
 def push_to_github():
     """
-    Deletes previous commit history by creating an orphan branch and force-pushing to main.
+    Deletes previous commit history by committing all changes to main and pushing to remote.
     WARNING: This operation will wipe all previous commit history on the remote main branch.
     """
     try:
-        # Create an orphan branch with no history
+        # Checkout main branch
         subprocess.check_call(["git", "checkout", "main"])
-        # Remove tracked files from the index
+        # Add all current files
         subprocess.check_call(["git", "add", "."])
         # Commit the changes
         subprocess.check_call(["git", "commit", "-m", "Daily update"])
-        # Force push the orphan branch to the remote main branch
+        # Push to remote main branch
         subprocess.check_call(["git", "push", "origin", "main"])
-        print("Git force-push complete. Remote main now contains only today's files.")
+        print("Git push complete. Remote main now contains only today's files.")
         print("Visit your GitHub Pages site at:", GITHUB_PAGES_URL)
     except subprocess.CalledProcessError as e:
         print("Error during git operations:", e)

@@ -8,14 +8,37 @@
     body {
       font-family: Arial, sans-serif;
       background: #f0f0f0;
-      text-align: center;
       margin: 0;
       padding: 20px;
+    }
+    .tab {
+      overflow: hidden;
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 20px;
+    }
+    .tab button {
+      background-color: inherit;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 14px 16px;
+      transition: 0.3s;
+      font-size: 17px;
+    }
+    .tab button:hover {
+      background-color: #ddd;
+    }
+    .tab button.active {
+      background-color: #ccc;
+    }
+    .tabcontent {
+      display: none;
     }
     .slideshow-container {
       max-width: 900px;
       margin: auto;
       position: relative;
+      text-align: center;
     }
     img {
       width: 100%;
@@ -35,26 +58,77 @@
 </head>
 <body>
   <h1>MLB Matchups</h1>
-  <div class="slideshow-container">
-    <img id="slide" src="today/Angels_vs_White Sox_lineup.png" alt="Slideshow Image">
+  <div class="tab">
+    <button class="tablinks" onclick="openTab(event, 'Game')" id="defaultOpen">Game Matchups</button>
+    <button class="tablinks" onclick="openTab(event, 'BP')">Batter Pitcher Matchups</button>
   </div>
-  <div>
-    <button class="nav-button" onclick="prevImage()">Previous</button>
-    <button class="nav-button" onclick="nextImage()">Next</button>
+  
+  <div id="Game" class="tabcontent">
+    <div class="slideshow-container">
+      <img id="gameSlide" src="today/Angels_vs_White Sox_lineup.png" alt="Game Matchups">
+    </div>
+    <div>
+      <button class="nav-button" onclick="prevGame()">Previous</button>
+      <button class="nav-button" onclick="nextGame()">Next</button>
+    </div>
   </div>
+  
+  <div id="BP" class="tabcontent">
+    <div class="slideshow-container">
+      <img id="bpSlide" src="top_50_favorable_plot.png" alt="Batter Pitcher Matchups">
+    </div>
+    <div>
+      <button class="nav-button" onclick="prevBP()">Previous</button>
+      <button class="nav-button" onclick="nextBP()">Next</button>
+    </div>
+  </div>
+  
   <script>
-    var images = ["today/Angels_vs_White Sox_lineup.png", "today/Blue Jays_vs_Orioles_lineup.png", "today/Brewers_vs_Yankees_lineup.png", "today/Cubs_vs_Diamondbacks_lineup.png", "today/Giants_vs_Reds_lineup.png", "today/Mariners_vs_Athletics_lineup.png", "today/Nationals_vs_Phillies_lineup.png", "today/Padres_vs_Braves_lineup.png", "today/Pirates_vs_Marlins_lineup.png", "today/Rays_vs_Rockies_lineup.png", "today/Reds_vs_Giants_lineup.png", "today/Royals_vs_Guardians_lineup.png", "today/White Sox_vs_Angels_lineup.png"];
-    var currentIndex = 0;
-    function showImage(index) {
-      document.getElementById("slide").src = images[index];
+    // Tab functionality
+    function openTab(evt, tabName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablinks");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(tabName).style.display = "block";
+      evt.currentTarget.className += " active";
     }
-    function nextImage() {
-      currentIndex = (currentIndex + 1) % images.length;
-      showImage(currentIndex);
+    // Set default tab
+    document.getElementById("defaultOpen").click();
+    
+    // Game Matchups slideshow
+    var gameImages = ["today/Angels_vs_White Sox_lineup.png", "today/Blue Jays_vs_Orioles_lineup.png", "today/Brewers_vs_Yankees_lineup.png", "today/Cubs_vs_Diamondbacks_lineup.png", "today/Giants_vs_Reds_lineup.png", "today/Mariners_vs_Athletics_lineup.png", "today/Nationals_vs_Phillies_lineup.png", "today/Padres_vs_Braves_lineup.png", "today/Pirates_vs_Marlins_lineup.png", "today/Rays_vs_Rockies_lineup.png", "today/Reds_vs_Giants_lineup.png", "today/Royals_vs_Guardians_lineup.png", "today/White Sox_vs_Angels_lineup.png"];
+    var gameCurrentIndex = 0;
+    function showGameImage(index) {
+      document.getElementById("gameSlide").src = gameImages[index];
     }
-    function prevImage() {
-      currentIndex = (currentIndex - 1 + images.length) % images.length;
-      showImage(currentIndex);
+    function nextGame() {
+      gameCurrentIndex = (gameCurrentIndex + 1) % gameImages.length;
+      showGameImage(gameCurrentIndex);
+    }
+    function prevGame() {
+      gameCurrentIndex = (gameCurrentIndex - 1 + gameImages.length) % gameImages.length;
+      showGameImage(gameCurrentIndex);
+    }
+    
+    // Batter Pitcher Matchups slideshow
+    var bpImages = ["top_50_favorable_plot.png", "top_50_unfavorable_plot.png"];
+    var bpCurrentIndex = 0;
+    function showBPImage(index) {
+      document.getElementById("bpSlide").src = bpImages[index];
+    }
+    function nextBP() {
+      bpCurrentIndex = (bpCurrentIndex + 1) % bpImages.length;
+      showBPImage(bpCurrentIndex);
+    }
+    function prevBP() {
+      bpCurrentIndex = (bpCurrentIndex - 1 + bpImages.length) % bpImages.length;
+      showBPImage(bpCurrentIndex);
     }
   </script>
 </body>
