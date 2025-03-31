@@ -1,0 +1,235 @@
+date,game_time,pitcher_name,pitcher_team,pitcher_throws,batter_name,batter_team,batter_position,batting_order,batter_bats
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,Brice Turang,Brewers,2B,1,L
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,J. Chourio,Brewers,LF,2,R
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,C. Yelich,Brewers,DH,3,L
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,W. Contreras,Brewers,C,4,R
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,Sal Frelick,Brewers,RF,5,L
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,Jake Bauers,Brewers,1B,6,L
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,G. Mitchell,Brewers,CF,7,L
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,Joey Ortiz,Brewers,SS,8,R
+2025-03-30,1:35 PM ET,Marcus Stroman,Yankees,R,Oliver Dunn,Brewers,3B,9,L
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,P. Goldschmidt,Yankees,1B,1,R
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,C. Bellinger,Yankees,CF,2,L
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,Aaron Judge,Yankees,RF,3,R
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,J. Chisholm,Yankees,2B,4,L
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,A. Volpe,Yankees,SS,5,R
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,Austin Wells,Yankees,C,6,L
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,J. Dominguez,Yankees,LF,7,S
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,Ben Rice,Yankees,DH,8,L
+2025-03-30,1:35 PM ET,Aaron Civale,Brewers,R,O. Cabrera,Yankees,3B,9,S
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,K. Schwarber,Phillies,DH,1,L
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,Alec Bohm,Phillies,3B,2,R
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,Bryce Harper,Phillies,1B,3,L
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,N. Castellanos,Phillies,RF,4,R
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,Bryson Stott,Phillies,2B,5,L
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,Edmundo Sosa,Phillies,SS,6,R
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,B. Marsh,Phillies,LF,7,L
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,Johan Rojas,Phillies,CF,8,R
+2025-03-30,1:35 PM ET,Mitchell Parker,Nationals,L,R. Marchan,Phillies,C,9,S
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,CJ Abrams,Nationals,SS,1,L
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,James Wood,Nationals,LF,2,L
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,Luis Garcia,Nationals,2B,3,L
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,Keibert Ruiz,Nationals,C,4,S
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,N. Lowe,Nationals,1B,5,L
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,Josh Bell,Nationals,DH,6,S
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,Paul DeJong,Nationals,3B,7,R
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,Dylan Crews,Nationals,RF,8,R
+2025-03-30,1:35 PM ET,Aaron Nola,Phillies,R,Jacob Young,Nationals,CF,9,R
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,C. Cowser,Orioles,LF,1,L
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,A. Rutschman,Orioles,C,2,S
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,Ryan O'Hearn,Orioles,DH,3,L
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,T. O'Neill,Orioles,RF,4,R
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,C. Mullins,Orioles,CF,5,L
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,R. Mountcastle,Orioles,1B,6,R
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,J. Holliday,Orioles,2B,7,L
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,Ramon Urias,Orioles,3B,8,R
+2025-03-30,1:37 PM ET,Chris Bassitt,Blue Jays,R,Jorge Mateo,Orioles,SS,9,R
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,Bo Bichette,Blue Jays,SS,1,R
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,V. Guerrero,Blue Jays,1B,2,R
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,A. Santander,Blue Jays,DH,3,S
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,A. Gimenez,Blue Jays,2B,4,L
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,G. Springer,Blue Jays,RF,5,R
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,Will Wagner,Blue Jays,3B,6,L
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,Alan Roden,Blue Jays,LF,7,L
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,T. Heineman,Blue Jays,C,8,S
+2025-03-30,1:37 PM ET,Tomoyuki Sugano,Orioles,R,Myles Straw,Blue Jays,CF,9,R
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,LaMonte Wade,Giants,1B,1,L
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,Willy Adames,Giants,SS,2,R
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,Jung Hoo Lee,Giants,CF,3,L
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,Matt Chapman,Giants,3B,4,R
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,Heliot Ramos,Giants,LF,5,R
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,W. Flores,Giants,DH,6,R
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,Luis Matos,Giants,RF,7,R
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,Sam Huff,Giants,C,8,R
+2025-03-30,1:40 PM ET,Nick Martinez,Reds,R,T. Fitzgerald,Giants,2B,9,R
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,Matt McLain,Reds,2B,1,R
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,S. Espinal,Reds,RF,2,R
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,E. De La Cruz,Reds,SS,3,S
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,C. Encarnacion-Strand,Reds,1B,4,R
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,J. Candelario,Reds,3B,5,S
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,S. Steer,Reds,DH,6,R
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,Gavin Lux,Reds,LF,7,L
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,Blake Dunn,Reds,CF,8,R
+2025-03-30,1:40 PM ET,Robbie Ray,Giants,L,Austin Wynns,Reds,C,9,R
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,Adam Frazier,Pirates,2B,1,L
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,B. Reynolds,Pirates,RF,2,S
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,Tommy Pham,Pirates,LF,3,R
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,A. McCutchen,Pirates,DH,4,R
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,J. Suwinski,Pirates,CF,5,L
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,E. Rodriguez,Pirates,C,6,S
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,Jared Triolo,Pirates,3B,7,R
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,E. Valdez,Pirates,1B,8,L
+2025-03-30,1:40 PM ET,Max Meyer,Marlins,R,I. Kiner-Falefa,Pirates,SS,9,R
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,X. Edwards,Marlins,SS,1,S
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,Otto Lopez,Marlins,2B,2,R
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,Dane Myers,Marlins,CF,3,R
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,Eric Wagaman,Marlins,1B,4,R
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,Jonah Bride,Marlins,3B,5,R
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,Derek Hill,Marlins,DH,6,R
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,Nick Fortes,Marlins,C,7,R
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,G. Conine,Marlins,RF,8,L
+2025-03-30,1:40 PM ET,Andrew Heaney,Pirates,L,J. Sanoja,Marlins,LF,9,R
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,B. Doyle,Rockies,CF,1,R
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,E. Tovar,Rockies,SS,2,R
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,Ryan McMahon,Rockies,3B,3,L
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,H. Goodman,Rockies,DH,4,R
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,M. Toglia,Rockies,1B,5,S
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,Nick Martini,Rockies,RF,6,L
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,Jordan Beck,Rockies,LF,7,R
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,J. Stallings,Rockies,C,8,R
+2025-03-30,1:40 PM ET,Taj Bradley,Rays,R,T. Freeman,Rockies,2B,9,R
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,Yandy Diaz,Rays,DH,1,R
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,Jake Mangum,Rays,RF,2,S
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,Brandon Lowe,Rays,2B,3,L
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,J. Aranda,Rays,1B,4,L
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,Taylor Walls,Rays,SS,5,S
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,K. Misner,Rays,LF,6,L
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,J. Caballero,Rays,3B,7,R
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,Ben Rortvedt,Rays,C,8,L
+2025-03-30,1:40 PM ET,Ryan Feltner,Rockies,R,Jonny DeLuca,Rays,CF,9,R
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,Taylor Ward,Angels,LF,1,R
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,N. Schanuel,Angels,1B,2,L
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,Mike Trout,Angels,RF,3,R
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,Jorge Soler,Angels,DH,4,R
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,Yoan Moncada,Angels,3B,5,S
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,T. d'Arnaud,Angels,C,6,R
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,Luis Rengifo,Angels,2B,7,S
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,Tim Anderson,Angels,SS,8,R
+2025-03-30,2:10 PM ET,Davis Martin,White Sox,R,Kyren Paris,Angels,CF,9,R
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,Nick Maton,White Sox,DH,1,L
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,Luis Robert,White Sox,CF,2,R
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,A. Benintendi,White Sox,LF,3,L
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,A. Vaughn,White Sox,1B,4,R
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,Matt Thaiss,White Sox,C,5,L
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,M. Vargas,White Sox,3B,6,R
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,B. Baldwin,White Sox,2B,7,S
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,Jacob Amaya,White Sox,SS,8,R
+2025-03-30,2:10 PM ET,Jack Kochanowicz,Angels,R,T. Jankowski,White Sox,RF,9,L
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,Steven Kwan,Guardians,LF,1,L
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,Lane Thomas,Guardians,CF,2,R
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,K. Manzardo,Guardians,DH,3,L
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,C. Santana,Guardians,1B,4,S
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,Nolan Jones,Guardians,RF,5,L
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,Bo Naylor,Guardians,C,6,L
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,G. Arias,Guardians,3B,7,R
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,D. Schneemann,Guardians,2B,8,L
+2025-03-30,2:10 PM ET,Michael Wacha,Royals,R,B. Rocchio,Guardians,SS,9,S
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,J. India,Royals,LF,1,R
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,Bobby Witt,Royals,SS,2,R
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,V. Pasquantino,Royals,DH,3,L
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,S. Perez,Royals,1B,4,R
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,M. Massey,Royals,2B,5,L
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,H. Renfroe,Royals,RF,6,R
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,M. Garcia,Royals,3B,7,R
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,F. Fermin,Royals,C,8,R
+2025-03-30,2:10 PM ET,Tanner Bibee,Guardians,R,Kyle Isbel,Royals,CF,9,L
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,Matt Wallner,Twins,RF,1,L
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,C. Correa,Twins,SS,2,R
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,Byron Buxton,Twins,CF,3,R
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,T. Larnach,Twins,DH,4,L
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,Ryan Jeffers,Twins,C,5,R
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,Ty France,Twins,1B,6,R
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,Willi Castro,Twins,2B,7,S
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,Jose Miranda,Twins,3B,8,R
+2025-03-30,2:15 PM ET,Andre Pallante,Cardinals,R,H. Bader,Twins,LF,9,R
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,L. Nootbaar,Cardinals,RF,1,L
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,W. Contreras,Cardinals,DH,2,R
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,B. Donovan,Cardinals,LF,3,L
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,N. Arenado,Cardinals,3B,4,R
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,A. Burleson,Cardinals,1B,5,L
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,Nolan Gorman,Cardinals,2B,6,L
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,Pedro Pages,Cardinals,C,7,R
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,Victor Scott,Cardinals,CF,8,L
+2025-03-30,2:15 PM ET,Bailey Ober,Twins,R,Masyn Winn,Cardinals,SS,9,R
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,Jarren Duran,Red Sox,LF,1,L
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,R. Devers,Red Sox,DH,2,L
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,Alex Bregman,Red Sox,3B,3,R
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,T. Casas,Red Sox,1B,4,L
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,K. Campbell,Red Sox,2B,5,R
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,Wilyer Abreu,Red Sox,RF,6,L
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,Connor Wong,Red Sox,C,7,R
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,D. Hamilton,Red Sox,SS,8,L
+2025-03-30,2:35 PM ET,Jacob deGrom,Rangers,R,C. Rafaela,Red Sox,CF,9,R
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,M. Semien,Rangers,2B,1,R
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,W. Langford,Rangers,LF,2,R
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,Joc Pederson,Rangers,DH,3,L
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,A. Garcia,Rangers,RF,4,R
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,Jake Burger,Rangers,1B,5,R
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,K. Higashioka,Rangers,C,6,R
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,L. Taveras,Rangers,CF,7,S
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,J. Ornelas,Rangers,SS,8,R
+2025-03-30,2:35 PM ET,Richard Fitts,Red Sox,R,E. Duran,Rangers,3B,9,R
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,L. Butler,Athletics,RF,1,L
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,Brent Rooker,Athletics,DH,2,R
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,JJ Bleday,Athletics,CF,3,L
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,M. Andujar,Athletics,LF,4,R
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,T. Soderstrom,Athletics,1B,5,L
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,Jacob Wilson,Athletics,SS,6,R
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,Gio Urshela,Athletics,3B,7,R
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,J. Pereda,Athletics,C,8,R
+2025-03-30,4:10 PM ET,Bryan Woo,Mariners,R,M. Schuemann,Athletics,2B,9,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,V. Robles,Mariners,RF,1,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,J. Rodriguez,Mariners,CF,2,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,Cal Raleigh,Mariners,C,3,S
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,R. Arozarena,Mariners,LF,4,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,Mitch Garver,Mariners,DH,5,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,D. Solano,Mariners,1B,6,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,Dylan Moore,Mariners,3B,7,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,Ryan Bliss,Mariners,2B,8,R
+2025-03-30,4:10 PM ET,JP Sears,Athletics,L,J. Crawford,Mariners,SS,9,L
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,Ian Happ,Cubs,LF,1,S
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,Seiya Suzuki,Cubs,DH,2,R
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,Kyle Tucker,Cubs,RF,3,L
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,J. Turner,Cubs,1B,4,R
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,D. Swanson,Cubs,SS,5,R
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,Nico Hoerner,Cubs,2B,6,R
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,P. Crow-Armstrong,Cubs,CF,7,L
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,Matt Shaw,Cubs,3B,8,R
+2025-03-30,4:10 PM ET,E. Rodriguez,Diamondbacks,L,Miguel Amaya,Cubs,C,9,R
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,Ketel Marte,Diamondbacks,DH,1,S
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,G. Perdomo,Diamondbacks,SS,2,S
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,L. Gurriel,Diamondbacks,LF,3,R
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,R. Grichuk,Diamondbacks,RF,4,R
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,Josh Naylor,Diamondbacks,1B,5,L
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,E. Suarez,Diamondbacks,3B,6,R
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,G. Hampson,Diamondbacks,2B,7,R
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,Alek Thomas,Diamondbacks,CF,8,L
+2025-03-30,4:10 PM ET,Matthew Boyd,Cubs,L,Jose Herrera,Diamondbacks,C,9,S
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,J. Profar,Braves,LF,1,S
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,Austin Riley,Braves,3B,2,R
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,Matt Olson,Braves,1B,3,L
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,M. Ozuna,Braves,DH,4,R
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,Ozzie Albies,Braves,2B,5,S
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,M. Harris,Braves,CF,6,L
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,O. Arcia,Braves,SS,7,R
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,J. Kelenic,Braves,RF,8,L
+2025-03-30,7:10 PM ET,Nick Pivetta,Padres,R,C. Tromp,Braves,C,9,R
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,F. Tatis,Padres,RF,1,R
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,Luis Arraez,Padres,1B,2,L
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,M. Machado,Padres,3B,3,R
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,J. Merrill,Padres,CF,4,L
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,J. Cronenworth,Padres,2B,5,L
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,X. Bogaerts,Padres,SS,6,R
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,Gavin Sheets,Padres,DH,7,L
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,J. Heyward,Padres,LF,8,L
+2025-03-30,7:10 PM ET,AJ Smith-Shawver,Braves,R,Elias Diaz,Padres,C,9,R
