@@ -75,7 +75,7 @@
   
   <div id="BP" class="tabcontent">
     <div class="slideshow-container">
-      <img id="bpSlide" src="top_50_favorable_plot.png" alt="Batter Pitcher Matchups">
+      <img id="bpSlide" src="today_top_50_favorable_plot.png" alt="Batter Pitcher Matchups">
     </div>
     <div>
       <button class="nav-button" onclick="prevBP()">Previous</button>
@@ -102,7 +102,7 @@
     document.getElementById("defaultOpen").click();
     
     // Game Matchups slideshow
-    var gameImages = ["today/Angels_vs_Cardinals_lineup.png", "today/Athletics_vs_Cubs_lineup.png", "today/Braves_vs_Dodgers_lineup.png", "today/Cardinals_vs_Angels_lineup.png", "today/Dodgers_vs_Braves_lineup.png", "today/Guardians_vs_Padres_lineup.png", "today/Marlins_vs_Mets_lineup.png", "today/Nationals_vs_Blue Jays_lineup.png", "today/Padres_vs_Guardians_lineup.png", "today/Pirates_vs_Rays_lineup.png", "today/Rays_vs_Pirates_lineup.png", "today/Reds_vs_Rangers_lineup.png", "today/Royals_vs_Brewers_lineup.png", "today/Twins_vs_White Sox_lineup.png"];
+    var gameImages = ["today/Angels_vs_Cardinals_lineup.png", "today/Athletics_vs_Cubs_lineup.png", "today/Braves_vs_Dodgers_lineup.png", "today/Cardinals_vs_Angels_lineup.png", "today/Diamondbacks_vs_Yankees_lineup.png", "today/Giants_vs_Astros_lineup.png", "today/Mariners_vs_Tigers_lineup.png", "today/Mets_vs_Marlins_lineup.png", "today/Padres_vs_Guardians_lineup.png", "today/Rangers_vs_Reds_lineup.png", "today/Reds_vs_Rangers_lineup.png", "today/Tigers_vs_Mariners_lineup.png", "today/White Sox_vs_Twins_lineup.png"];
     var gameCurrentIndex = 0;
     function showGameImage(index) {
       document.getElementById("gameSlide").src = gameImages[index];
@@ -117,7 +117,7 @@
     }
     
     // Batter Pitcher Matchups slideshow
-    var bpImages = ["top_50_favorable_plot.png", "top_50_unfavorable_plot.png"];
+    var bpImages = ["today_top_50_favorable_plot.png", "today_top_50_unfavorable_plot.png", "top_50_favorable_plot.png", "top_50_unfavorable_plot.png"];
     var bpCurrentIndex = 0;
     function showBPImage(index) {
       document.getElementById("bpSlide").src = bpImages[index];
