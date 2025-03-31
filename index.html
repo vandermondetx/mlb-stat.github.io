@@ -75,7 +75,7 @@
   
   <div id="BP" class="tabcontent">
     <div class="slideshow-container">
-      <img id="bpSlide" src="today_top_50_favorable_plot.png" alt="Batter Pitcher Matchups">
+      <img id="bpSlide" src="top_50_favorable_plot.png" alt="Batter Pitcher Matchups">
     </div>
     <div>
       <button class="nav-button" onclick="prevBP()">Previous</button>
@@ -117,7 +117,7 @@
     }
     
     // Batter Pitcher Matchups slideshow
-    var bpImages = ["today_top_50_favorable_plot.png", "today_top_50_unfavorable_plot.png", "top_50_favorable_plot.png", "top_50_unfavorable_plot.png"];
+    var bpImages = ["top_50_favorable_plot.png", "top_50_unfavorable_plot.png"];
     var bpCurrentIndex = 0;
     function showBPImage(index) {
       document.getElementById("bpSlide").src = bpImages[index];
