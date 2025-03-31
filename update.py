@@ -308,7 +308,7 @@ def build_slideshow(png_folder):
   </style>
 </head>
 <body>
-  <h1>PNG Slideshow</h1>
+  <h1>MLB Matchups</h1>
   <div class="slideshow-container">
     <img id="slide" src="{img_paths[0]}" alt="Slideshow Image">
   </div>
