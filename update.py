@@ -67,7 +67,7 @@ def scrape_and_generate_pngs():
     clear_folder(PNG_FOLDER)
     
     # --- Scrape the Data ---
-    url = "https://www.rotowire.com/baseball/daily-lineups.php"
+    url = "https://www.rotowire.com/baseball/daily-lineups.php?date=tomorrow"
     soup = BeautifulSoup(requests.get(url).content, "html.parser")
     
     data_pitching = []
