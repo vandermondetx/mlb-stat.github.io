@@ -277,7 +277,7 @@ def build_slideshow(png_folder):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PNG Slideshow</title>
+  <title>MLB Matchups</title>
   <style>
     body {{
       font-family: Arial, sans-serif;
@@ -349,17 +349,13 @@ def push_to_github():
     """
     try:
         # Create an orphan branch with no history
-        subprocess.check_call(["git", "checkout", "--orphan", "temp_branch"])
+        subprocess.check_call(["git", "checkout", "main"])
         # Remove tracked files from the index
-        subprocess.check_call(["git", "rm", "-rf", "."])
-        # Add all current files (PNGs, index.html, CSVs, etc.)
         subprocess.check_call(["git", "add", "."])
         # Commit the changes
         subprocess.check_call(["git", "commit", "-m", "Daily update"])
         # Force push the orphan branch to the remote main branch
-        subprocess.check_call(["git", "push", "-f", "origin", "temp_branch:main"])
-        # Switch back to main locally as an orphan branch
-        subprocess.check_call(["git", "checkout", "-B", "main"])
+        subprocess.check_call(["git", "push", "origin", "main"])
         print("Git force-push complete. Remote main now contains only today's files.")
         print("Visit your GitHub Pages site at:", GITHUB_PAGES_URL)
     except subprocess.CalledProcessError as e:
