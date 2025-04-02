@@ -79,10 +79,28 @@ def determine_color(value):
         return (1 - blue_intensity, 1 - blue_intensity, 1)
 
 def logarithmic_increase(x, max_value=20):
+    """
+    Returns a logarithmically scaled value for PA, capped at max_value.
+    This gives diminishing returns as PA increases.
+    """
     if x < max_value:
         return math.log(x + 1, 5) * max_value / math.log(max_value + 1, 5)
     else:
         return max_value
+
+def weighted_color_value(pa, ops):
+    """
+    Improved formula using a logarithmic PA multiplier (base 5).
+    
+    weighted_value = logarithmic_increase(PA) × (OPS – 0.75) × (1 + log₅(PA + 1))
+    
+    This ensures that higher PA results in a higher weighted score while 
+    still having diminishing marginal returns.
+    """
+    log_val = logarithmic_increase(pa)
+    deviation = ops - 0.75
+    pa_multiplier = 1 + math.log(pa + 1, 5)
+    return log_val * deviation * pa_multiplier
 
 # --------------------------
 # Module-Level StatMuse Scraping Functions
@@ -221,19 +239,27 @@ def scrape_and_generate_pngs_for(day_label, url, game_folder, bp_folder):
     df_final.to_csv(f'matchups_{day_label}.csv', index=False)
     
     # --- Create PNG Charts for Batter-Pitcher Matchups ---
-    df_subset = df_final[['pitcher_name', 'batter_name', 'PA', 'OPS']].copy()
-    df_subset['color_value'] = df_subset.apply(lambda row: 2 * logarithmic_increase(row['PA']) * (row['OPS'] - 0.75), axis=1)
+    # Include additional columns: pitcher_team, batter_team, PA, OPS, H, HR, SO
+    df_subset = df_final[['pitcher_team', 'pitcher_name', 'batter_team', 'batter_name', 'PA', 'OPS', 'H', 'HR', 'SO']].copy()
+    # Calculate new color value using the improved weighted formula with log base 5 multiplier
+    df_subset['color_value'] = df_subset.apply(
+        lambda row: weighted_color_value(row['PA'], row['OPS']),
+        axis=1)
     df_subset['color'] = df_subset['color_value'].apply(determine_color)
     top_50_fav = df_subset[df_subset['color_value'] > 0].sort_values('color_value', ascending=False).head(50)
     top_50_unfav = df_subset[df_subset['color_value'] < 0].sort_values('color_value', ascending=True).head(50)
     
     def plot_colored_df(df, title, filename):
+        # Use all columns for display: pitcher_team, pitcher_name, batter_team, batter_name, PA, OPS, H, HR, SO
+        display_cols = ['pitcher_team', 'pitcher_name', 'batter_team', 'batter_name', 'PA', 'OPS', 'H', 'HR', 'SO']
         fig, ax = plt.subplots(figsize=(10, len(df) / 2))
         ax.axis('tight')
         ax.axis('off')
-        table = ax.table(cellText=df[['pitcher_name', 'batter_name', 'PA', 'OPS']].values,
-                         colLabels=df.columns[:-2],
-                         cellColours=[[determine_color(val)] * 4 for val in df['color_value']],
+        # Build cell colors based on the color_value column
+        cell_colors = [[determine_color(val)] * len(display_cols) for val in df['color_value']]
+        table = ax.table(cellText=df[display_cols].values,
+                         colLabels=display_cols,
+                         cellColours=cell_colors,
                          loc='center')
         table.scale(1, 1.5)
         table.auto_set_font_size(False)
@@ -247,8 +273,10 @@ def scrape_and_generate_pngs_for(day_label, url, game_folder, bp_folder):
     plot_colored_df(top_50_unfav, f"Top 50 Least Favorable (Blue) {day_label}",
                     os.path.join(bp_folder, f"top_50_unfavorable_{day_label}.png"))
     
-    # --- Calculate Color for Full DataFrame ---
-    df_final['color_value'] = df_final.apply(lambda row: 2 * logarithmic_increase(row['PA']) * (row['OPS'] - 0.75), axis=1)
+    # --- Calculate Color for Full DataFrame using the improved formula ---
+    df_final['color_value'] = df_final.apply(
+        lambda row: weighted_color_value(row['PA'], row['OPS']),
+        axis=1)
     df_final['color'] = df_final['color_value'].apply(determine_color)
     
     # --- Create Game Matchup Charts ---
