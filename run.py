@@ -92,15 +92,17 @@ def weighted_color_value(pa, ops):
     """
     Improved formula using a logarithmic PA multiplier (base 5).
     
-    weighted_value = logarithmic_increase(PA) × (OPS – 0.75) × (1 + log₅(PA + 1))
-    
     This ensures that higher PA results in a higher weighted score while 
     still having diminishing marginal returns.
     """
     log_val = logarithmic_increase(pa)
     deviation = ops - 0.75
-    pa_multiplier = 1 + math.log(pa + 1, 5)
-    return log_val * deviation * pa_multiplier
+    if deviation > 0:
+      return log_val * min(deviation,0.5) + log_val
+    elif deviation <0:
+      return log_val * max(deviation,-0.5) - log_val
+    else:
+        return 0
 
 # --------------------------
 # Module-Level StatMuse Scraping Functions
@@ -263,7 +265,7 @@ def scrape_and_generate_pngs_for(day_label, url, game_folder, bp_folder):
                          loc='center')
         table.scale(1, 1.5)
         table.auto_set_font_size(False)
-        table.set_fontsize(10)
+        table.set_fontsize(4)
         ax.set_title(title, fontsize=14)
         plt.savefig(filename, bbox_inches='tight', dpi=300)
         plt.close(fig)
@@ -545,4 +547,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
