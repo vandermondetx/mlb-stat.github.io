@@ -98,9 +98,9 @@ def weighted_color_value(pa, ops):
     log_val = logarithmic_increase(pa)
     deviation = ops - 0.75
     if deviation > 0:
-      return log_val * min(deviation,0.5) + log_val*0.5
+      return log_val * min(deviation,0.5) + log_val*0.51
     elif deviation <0:
-      return log_val * max(deviation,-0.5) - log_val*0.5
+      return log_val * max(deviation,-0.5) - log_val*0.51
     else:
         return 0
 
