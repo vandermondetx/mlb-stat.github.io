@@ -265,7 +265,7 @@ def scrape_and_generate_pngs_for(day_label, url, game_folder, bp_folder):
                          loc='center')
         table.scale(1, 1.5)
         table.auto_set_font_size(False)
-        table.set_fontsize(4)
+        table.set_fontsize(7)
         ax.set_title(title, fontsize=14)
         plt.savefig(filename, bbox_inches='tight', dpi=300)
         plt.close(fig)
