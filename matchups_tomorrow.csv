@@ -1,325 +1,199 @@
 date,game_time,pitcher_name,pitcher_team,pitcher_throws,batter_name,batter_team,batter_position,batting_order,batter_bats,PA,AB,H,HR,SO,AVG,OBP,SLG,OPS
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,X. Edwards,Marlins,SS,1,S,5.0,5.0,1.0,0.0,2.0,0.2,0.2,0.2,0.4
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,Kyle Stowers,Marlins,LF,2,L,4.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,Jonah Bride,Marlins,DH,3,R,5.0,3.0,1.0,1.0,0.0,0.333,0.6,1.333,1.933
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,Matt Mervis,Marlins,1B,4,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,Otto Lopez,Marlins,2B,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,G. Conine,Marlins,RF,6,L,2.0,2.0,1.0,0.0,0.0,0.5,0.5,1.0,1.5
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,Derek Hill,Marlins,CF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,G. Pauley,Marlins,3B,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Grant Holmes,Braves,R,Nick Fortes,Marlins,C,9,R,3.0,3.0,1.0,0.0,2.0,0.333,0.333,0.333,0.667
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,M. Harris,Braves,CF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,Austin Riley,Braves,3B,2,R,34.0,32.0,6.0,0.0,14.0,0.188,0.235,0.219,0.454
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,Matt Olson,Braves,1B,3,L,19.0,18.0,2.0,0.0,6.0,0.111,0.158,0.111,0.269
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,M. Ozuna,Braves,DH,4,R,24.0,22.0,9.0,0.0,3.0,0.409,0.458,0.5,0.958
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,Ozzie Albies,Braves,2B,5,S,42.0,39.0,11.0,2.0,9.0,0.282,0.31,0.513,0.822
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,D. Baldwin,Braves,C,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,B. De La Cruz,Braves,LF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,J. Kelenic,Braves,RF,8,L,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sandy Alcantara,Marlins,R,O. Arcia,Braves,SS,9,R,5.0,5.0,2.0,1.0,1.0,0.4,0.4,1.2,1.6
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,C. Carroll,Diamondbacks,RF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,L. Gurriel,Diamondbacks,LF,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,Josh Naylor,Diamondbacks,1B,3,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,E. Suarez,Diamondbacks,3B,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,G. Moreno,Diamondbacks,C,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,Pavin Smith,Diamondbacks,DH,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,Alek Thomas,Diamondbacks,CF,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,G. Perdomo,Diamondbacks,SS,8,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Brad Lord,Nationals,R,G. Hampson,Diamondbacks,2B,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,CJ Abrams,Nationals,SS,1,L,9.0,7.0,1.0,0.0,4.0,0.143,0.333,0.143,0.476
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,James Wood,Nationals,LF,2,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Keibert Ruiz,Nationals,C,3,S,9.0,9.0,1.0,0.0,2.0,0.111,0.111,0.111,0.222
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,N. Lowe,Nationals,1B,4,L,6.0,6.0,1.0,1.0,1.0,0.167,0.167,0.667,0.833
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Josh Bell,Nationals,DH,5,S,14.0,12.0,3.0,1.0,4.0,0.25,0.357,0.5,0.857
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Luis Garcia,Nationals,2B,6,L,9.0,6.0,1.0,1.0,1.0,0.167,0.444,0.667,1.111
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Paul DeJong,Nationals,3B,7,R,23.0,22.0,7.0,2.0,7.0,0.318,0.348,0.636,0.984
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Dylan Crews,Nationals,RF,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Jacob Young,Nationals,CF,9,R,5.0,4.0,0.0,0.0,2.0,0.0,0.2,0.0,0.2
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,S. Ohtani,Dodgers,DH,1,L,10.0,10.0,3.0,0.0,1.0,0.3,0.3,0.3,0.6
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Mookie Betts,Dodgers,SS,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Tommy Edman,Dodgers,2B,3,S,4.0,4.0,1.0,0.0,0.0,0.25,0.25,0.5,0.75
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,T. Hernandez,Dodgers,RF,4,R,6.0,6.0,2.0,0.0,2.0,0.333,0.333,0.5,0.833
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Will Smith,Dodgers,C,5,R,3.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,E. Hernandez,Dodgers,1B,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Max Muncy,Dodgers,3B,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Chris Taylor,Dodgers,LF,8,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Andy Pages,Dodgers,CF,9,R,6.0,5.0,2.0,0.0,1.0,0.4,0.5,0.4,0.9
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,K. Schwarber,Phillies,DH,1,L,13.0,11.0,2.0,0.0,7.0,0.182,0.308,0.273,0.58
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Trea Turner,Phillies,SS,2,R,11.0,11.0,2.0,0.0,3.0,0.182,0.182,0.273,0.455
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Bryce Harper,Phillies,1B,3,L,10.0,9.0,2.0,0.0,5.0,0.222,0.3,0.556,0.856
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Alec Bohm,Phillies,3B,4,R,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Max Kepler,Phillies,LF,5,L,4.0,3.0,3.0,1.0,0.0,1.0,1.0,2.0,3.0
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,N. Castellanos,Phillies,RF,6,R,3.0,3.0,1.0,0.0,1.0,0.333,0.333,1.0,1.333
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,J. Realmuto,Phillies,C,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Bryson Stott,Phillies,2B,8,L,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,B. Marsh,Phillies,CF,9,L,3.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,P. Goldschmidt,Yankees,1B,1,R,4.0,3.0,1.0,0.0,0.0,0.333,0.5,0.333,0.833
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,C. Bellinger,Yankees,LF,2,L,11.0,11.0,3.0,0.0,4.0,0.273,0.273,0.273,0.545
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,Aaron Judge,Yankees,RF,3,R,15.0,13.0,3.0,1.0,8.0,0.231,0.333,0.462,0.795
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,J. Chisholm,Yankees,2B,4,L,6.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,A. Volpe,Yankees,SS,5,R,7.0,7.0,1.0,0.0,4.0,0.143,0.143,0.143,0.286
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,Austin Wells,Yankees,C,6,L,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,Pablo Reyes,Yankees,3B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,J. Dominguez,Yankees,DH,8,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,T. Grisham,Yankees,CF,9,L,1.0,1.0,1.0,1.0,0.0,1.0,1.0,4.0,5.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Adam Frazier,Pirates,2B,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,B. Reynolds,Pirates,RF,2,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Oneil Cruz,Pirates,CF,3,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Joey Bart,Pirates,C,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,A. McCutchen,Pirates,DH,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Tommy Pham,Pirates,LF,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,K. Hayes,Pirates,3B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,E. Rodriguez,Pirates,1B,8,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,I. Kiner-Falefa,Pirates,SS,9,R,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,L. Nootbaar,Cardinals,LF,1,L,6.0,5.0,1.0,1.0,1.0,0.2,0.333,0.8,1.133
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,W. Contreras,Cardinals,1B,2,R,8.0,5.0,1.0,1.0,1.0,0.2,0.5,0.8,1.3
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Luken Baker,Cardinals,DH,3,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,N. Arenado,Cardinals,3B,4,R,16.0,15.0,7.0,2.0,0.0,0.467,0.5,0.933,1.433
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Ivan Herrera,Cardinals,C,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,B. Donovan,Cardinals,2B,6,L,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,J. Walker,Cardinals,RF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Victor Scott,Cardinals,CF,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Masyn Winn,Cardinals,SS,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,L. Nootbaar,Cardinals,LF,1,L,6.0,5.0,1.0,1.0,1.0,0.2,0.333,0.8,1.133
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,W. Contreras,Cardinals,1B,2,R,8.0,5.0,1.0,1.0,1.0,0.2,0.5,0.8,1.3
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,Luken Baker,Cardinals,DH,3,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,N. Arenado,Cardinals,3B,4,R,16.0,15.0,7.0,2.0,0.0,0.467,0.5,0.933,1.433
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,Ivan Herrera,Cardinals,C,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,B. Donovan,Cardinals,2B,6,L,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,J. Walker,Cardinals,RF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,Victor Scott,Cardinals,CF,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,Masyn Winn,Cardinals,SS,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Jarren Duran,Red Sox,LF,1,L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,R. Devers,Red Sox,DH,2,L,4.0,3.0,1.0,0.0,0.0,0.333,0.5,0.333,0.833
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Alex Bregman,Red Sox,3B,3,R,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,T. Casas,Red Sox,1B,4,L,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Trevor Story,Red Sox,SS,5,R,2.0,2.0,1.0,1.0,0.0,0.5,0.5,2.0,2.5
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Wilyer Abreu,Red Sox,RF,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,K. Campbell,Red Sox,2B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Connor Wong,Red Sox,C,8,R,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,C. Rafaela,Red Sox,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Jarren Duran,Red Sox,LF,1,L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,R. Devers,Red Sox,DH,2,L,4.0,3.0,1.0,0.0,0.0,0.333,0.5,0.333,0.833
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Alex Bregman,Red Sox,3B,3,R,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,T. Casas,Red Sox,1B,4,L,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Trevor Story,Red Sox,SS,5,R,2.0,2.0,1.0,1.0,0.0,0.5,0.5,2.0,2.5
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Wilyer Abreu,Red Sox,RF,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,K. Campbell,Red Sox,2B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Connor Wong,Red Sox,C,8,R,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,C. Rafaela,Red Sox,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,Nick Maton,White Sox,DH,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,Luis Robert,White Sox,CF,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,A. Vaughn,White Sox,1B,3,R,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,A. Benintendi,White Sox,LF,4,L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,M. Vargas,White Sox,3B,5,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,Lenyn Sosa,White Sox,2B,6,R,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,B. Baldwin,White Sox,SS,7,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,A. Slater,White Sox,RF,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,Korey Lee,White Sox,C,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Andy Ibanez,Tigers,3B,1,R,9.0,9.0,3.0,1.0,1.0,0.333,0.333,0.667,1.0
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,J. Malloy,Tigers,DH,2,R,3.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Riley Greene,Tigers,LF,3,L,7.0,6.0,1.0,0.0,2.0,0.167,0.286,0.167,0.452
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,S. Torkelson,Tigers,1B,4,R,15.0,14.0,4.0,0.0,3.0,0.286,0.333,0.357,0.69
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,M. Margot,Tigers,RF,5,R,25.0,22.0,4.0,0.0,2.0,0.182,0.28,0.182,0.462
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Colt Keith,Tigers,2B,6,L,5.0,5.0,1.0,0.0,0.0,0.2,0.2,0.2,0.4
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Javier Baez,Tigers,SS,7,R,15.0,15.0,3.0,0.0,3.0,0.2,0.2,0.267,0.467
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Jake Rogers,Tigers,C,8,R,10.0,8.0,2.0,1.0,3.0,0.25,0.4,0.625,1.025
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,R. Kreidler,Tigers,CF,9,R,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,Bo Bichette,Blue Jays,SS,1,R,3.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,V. Guerrero,Blue Jays,1B,2,R,5.0,4.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,A. Santander,Blue Jays,RF,3,S,7.0,6.0,1.0,0.0,1.0,0.167,0.286,0.167,0.452
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,A. Gimenez,Blue Jays,2B,4,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,G. Springer,Blue Jays,DH,5,R,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.333,0.667
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,A. Kirk,Blue Jays,C,6,R,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.667,1.0
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,E. Clement,Blue Jays,3B,7,R,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.333,0.667
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,D. Schneider,Blue Jays,LF,8,R,2.0,2.0,1.0,0.0,1.0,0.5,0.5,1.5,2.0
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,Myles Straw,Blue Jays,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,F. Lindor,Mets,SS,1,S,4.0,4.0,1.0,1.0,0.0,0.25,0.25,1.0,1.25
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Juan Soto,Mets,RF,2,L,2.0,2.0,1.0,0.0,1.0,0.5,0.5,0.5,1.0
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Pete Alonso,Mets,1B,3,R,3.0,2.0,0.0,0.0,0.0,0.0,0.333,0.0,0.333
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,B. Nimmo,Mets,LF,4,L,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Jesse Winker,Mets,DH,5,L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Mark Vientos,Mets,3B,6,R,3.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Luis Torrens,Mets,C,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Brett Baty,Mets,2B,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Jose Siri,Mets,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,G. Henderson,Orioles,SS,1,L,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,J. Westburg,Orioles,2B,2,R,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,A. Rutschman,Orioles,DH,3,S,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,T. O'Neill,Orioles,RF,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,R. Mountcastle,Orioles,1B,5,R,9.0,7.0,1.0,0.0,3.0,0.143,0.222,0.143,0.365
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,R. Laureano,Orioles,LF,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,Gary Sanchez,Orioles,C,7,R,5.0,5.0,1.0,0.0,1.0,0.2,0.2,0.2,0.4
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,Ramon Urias,Orioles,3B,8,R,3.0,2.0,0.0,0.0,0.0,0.0,0.333,0.0,0.333
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,Jorge Mateo,Orioles,CF,9,R,4.0,4.0,2.0,0.0,1.0,0.5,0.5,0.5,1.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,J. India,Royals,3B,1,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,Bobby Witt,Royals,SS,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,V. Pasquantino,Royals,1B,3,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,S. Perez,Royals,DH,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,H. Renfroe,Royals,RF,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,Mark Canha,Royals,LF,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,M. Massey,Royals,2B,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,F. Fermin,Royals,C,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,M. Garcia,Royals,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,TJ Friedl,Reds,CF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,S. Steer,Reds,DH,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,E. De La Cruz,Reds,SS,3,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,Gavin Lux,Reds,LF,4,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,J. Candelario,Reds,3B,5,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,C. Encarnacion-Strand,Reds,1B,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,S. Espinal,Reds,2B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,Jake Fraley,Reds,RF,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,Jose Trevino,Reds,C,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Brice Turang,Brewers,2B,1,L,7.0,7.0,1.0,1.0,1.0,0.143,0.143,0.571,0.714
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,J. Chourio,Brewers,LF,2,R,3.0,2.0,0.0,0.0,1.0,0.0,0.333,0.0,0.333
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,C. Yelich,Brewers,DH,3,L,2.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,W. Contreras,Brewers,C,4,R,7.0,7.0,4.0,1.0,1.0,0.571,0.571,1.0,1.571
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Sal Frelick,Brewers,RF,5,L,7.0,7.0,4.0,0.0,0.0,0.571,0.571,0.857,1.429
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Rhys Hoskins,Brewers,1B,6,R,7.0,5.0,2.0,1.0,0.0,0.4,0.571,1.0,1.571
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,G. Mitchell,Brewers,CF,7,L,4.0,3.0,1.0,1.0,1.0,0.333,0.5,1.333,1.833
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Joey Ortiz,Brewers,SS,8,R,3.0,3.0,1.0,0.0,2.0,0.333,0.333,0.667,1.0
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Oliver Dunn,Brewers,3B,9,L,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Jose Altuve,Astros,LF,1,R,5.0,5.0,2.0,0.0,0.0,0.4,0.4,0.6,1.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,I. Paredes,Astros,3B,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Y. Alvarez,Astros,DH,3,L,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,C. Walker,Astros,1B,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Yainer Diaz,Astros,C,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Jeremy Pena,Astros,SS,6,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Cam Smith,Astros,RF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,B. Rodgers,Astros,2B,8,R,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Jake Meyers,Astros,CF,9,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,1.0,1.5
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Matt Wallner,Twins,RF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,C. Correa,Twins,SS,2,R,4.0,3.0,1.0,0.0,0.0,0.333,0.5,0.667,1.167
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Byron Buxton,Twins,CF,3,R,3.0,3.0,1.0,1.0,1.0,0.333,0.333,1.333,1.667
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,T. Larnach,Twins,DH,4,L,4.0,4.0,2.0,1.0,1.0,0.5,0.5,1.25,1.75
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Ryan Jeffers,Twins,C,5,R,2.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Ty France,Twins,1B,6,R,7.0,6.0,0.0,0.0,2.0,0.0,0.143,0.0,0.143
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Willi Castro,Twins,2B,7,S,2.0,1.0,1.0,0.0,0.0,1.0,1.0,3.0,4.0
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Jose Miranda,Twins,3B,8,R,3.0,2.0,0.0,0.0,0.0,0.0,0.333,0.0,0.333
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,H. Bader,Twins,LF,9,R,2.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,F. Tatis,Padres,RF,1,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,Luis Arraez,Padres,1B,2,L,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,M. Machado,Padres,3B,3,R,2.0,2.0,2.0,0.0,0.0,1.0,1.0,1.5,2.5
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,J. Merrill,Padres,CF,4,L,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,J. Cronenworth,Padres,2B,5,L,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,X. Bogaerts,Padres,SS,6,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,1.0,1.5
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,Gavin Sheets,Padres,DH,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,J. Heyward,Padres,LF,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,Elias Diaz,Padres,C,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Ian Happ,Cubs,LF,1,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Seiya Suzuki,Cubs,DH,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Kyle Tucker,Cubs,RF,3,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,J. Turner,Cubs,1B,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,D. Swanson,Cubs,SS,5,R,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Nico Hoerner,Cubs,2B,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,P. Crow-Armstrong,Cubs,CF,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Matt Shaw,Cubs,3B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Carson Kelly,Cubs,C,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Yandy Diaz,Rays,DH,1,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Brandon Lowe,Rays,2B,2,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,J. Caminero,Rays,3B,3,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,J. Aranda,Rays,1B,4,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,C. Morel,Rays,LF,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,K. Misner,Rays,RF,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Danny Jansen,Rays,C,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Taylor Walls,Rays,SS,8,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Jonny DeLuca,Rays,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,M. Semien,Rangers,2B,1,R,6.0,4.0,1.0,0.0,1.0,0.25,0.5,0.25,0.75
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Corey Seager,Rangers,SS,2,L,3.0,1.0,0.0,0.0,0.0,0.0,0.667,0.0,0.667
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,W. Langford,Rangers,LF,3,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Joc Pederson,Rangers,DH,4,L,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,A. Garcia,Rangers,RF,5,R,2.0,2.0,1.0,0.0,1.0,0.5,0.5,0.5,1.0
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Jake Burger,Rangers,1B,6,R,4.0,4.0,2.0,1.0,1.0,0.5,0.5,1.25,1.75
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Josh Smith,Rangers,3B,7,L,2.0,2.0,1.0,0.0,1.0,0.5,0.5,0.5,1.0
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Jonah Heim,Rangers,C,8,S,2.0,2.0,1.0,1.0,1.0,0.5,0.5,2.0,2.5
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,L. Taveras,Rangers,CF,9,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,L. Butler,Athletics,RF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Brent Rooker,Athletics,DH,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,JJ Bleday,Athletics,CF,3,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,S. Langeliers,Athletics,C,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,T. Soderstrom,Athletics,1B,5,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,M. Andujar,Athletics,LF,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Gio Urshela,Athletics,3B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Max Muncy,Athletics,2B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Jacob Wilson,Athletics,SS,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,B. Doyle,Rockies,CF,1,R,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.667,1.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,E. Tovar,Rockies,SS,2,R,3.0,3.0,2.0,0.0,0.0,0.667,0.667,1.333,2.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Ryan McMahon,Rockies,3B,3,L,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,H. Goodman,Rockies,C,4,R,3.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Kris Bryant,Rockies,DH,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,M. Toglia,Rockies,1B,6,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Nick Martini,Rockies,RF,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Kyle Farmer,Rockies,2B,8,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,1.0,1.5
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Jordan Beck,Rockies,LF,9,R,3.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,V. Robles,Mariners,RF,1,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,J. Rodriguez,Mariners,CF,2,R,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Cal Raleigh,Mariners,C,3,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,R. Arozarena,Mariners,LF,4,R,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,J. Polanco,Mariners,3B,5,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Luke Raley,Mariners,DH,6,L,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Rowdy Tellez,Mariners,1B,7,L,5.0,4.0,0.0,0.0,1.0,0.0,0.2,0.0,0.2
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Ryan Bliss,Mariners,2B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,J. Crawford,Mariners,SS,9,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,LaMonte Wade,Giants,1B,1,L,6.0,6.0,1.0,0.0,1.0,0.167,0.167,0.333,0.5
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Willy Adames,Giants,SS,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Jung Hoo Lee,Giants,CF,3,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Matt Chapman,Giants,3B,4,R,6.0,6.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Heliot Ramos,Giants,LF,5,R,3.0,3.0,2.0,1.0,0.0,0.667,0.667,1.667,2.333
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,P. Bailey,Giants,C,6,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,W. Flores,Giants,DH,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,M. Yastrzemski,Giants,RF,8,L,6.0,5.0,1.0,0.0,1.0,0.2,0.333,0.2,0.533
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,T. Fitzgerald,Giants,2B,9,R,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,Steven Kwan,Guardians,LF,1,L,7.0,5.0,0.0,0.0,0.0,0.0,0.286,0.0,0.286
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,Jose Ramirez,Guardians,3B,2,S,7.0,6.0,3.0,1.0,1.0,0.5,0.429,1.167,1.595
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,Lane Thomas,Guardians,CF,3,R,4.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,C. Santana,Guardians,1B,4,S,9.0,9.0,3.0,0.0,0.0,0.333,0.333,0.333,0.667
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,K. Manzardo,Guardians,DH,5,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,J. Noel,Guardians,RF,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,Bo Naylor,Guardians,C,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,G. Arias,Guardians,2B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,B. Rocchio,Guardians,SS,9,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Taylor Ward,Angels,LF,1,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Luis Rengifo,Angels,3B,2,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Mike Trout,Angels,RF,3,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Jorge Soler,Angels,DH,4,R,6.0,6.0,1.0,0.0,1.0,0.167,0.167,0.167,0.333
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,L. O'Hoppe,Angels,C,5,R,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,N. Schanuel,Angels,1B,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Kyren Paris,Angels,2B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Jo Adell,Angels,CF,8,R,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Kevin Newman,Angels,SS,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,L. Nootbaar,Cardinals,LF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,W. Contreras,Cardinals,1B,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,Luken Baker,Cardinals,DH,3,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,N. Arenado,Cardinals,3B,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,Ivan Herrera,Cardinals,C,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,B. Donovan,Cardinals,2B,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,J. Walker,Cardinals,RF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,Victor Scott,Cardinals,CF,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Richard Fitts,Red Sox,R,Masyn Winn,Cardinals,SS,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,L. Nootbaar,Cardinals,LF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,W. Contreras,Cardinals,1B,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,Luken Baker,Cardinals,DH,3,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,N. Arenado,Cardinals,3B,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,Ivan Herrera,Cardinals,C,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,B. Donovan,Cardinals,2B,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,J. Walker,Cardinals,RF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,Victor Scott,Cardinals,CF,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Richard Fitts,Red Sox,R,Masyn Winn,Cardinals,SS,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Jarren Duran,Red Sox,LF,1,L,6.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,R. Devers,Red Sox,DH,2,L,5.0,5.0,3.0,1.0,1.0,0.6,0.6,1.2,1.8
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Alex Bregman,Red Sox,3B,3,R,3.0,2.0,0.0,0.0,1.0,0.0,0.333,0.0,0.333
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,T. Casas,Red Sox,1B,4,L,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Trevor Story,Red Sox,SS,5,R,9.0,9.0,1.0,0.0,2.0,0.111,0.111,0.111,0.222
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Wilyer Abreu,Red Sox,RF,6,L,2.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,K. Campbell,Red Sox,2B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Connor Wong,Red Sox,C,8,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,C. Rafaela,Red Sox,CF,9,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Jarren Duran,Red Sox,LF,1,L,6.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,R. Devers,Red Sox,DH,2,L,5.0,5.0,3.0,1.0,1.0,0.6,0.6,1.2,1.8
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Alex Bregman,Red Sox,3B,3,R,3.0,2.0,0.0,0.0,1.0,0.0,0.333,0.0,0.333
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,T. Casas,Red Sox,1B,4,L,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Trevor Story,Red Sox,SS,5,R,9.0,9.0,1.0,0.0,2.0,0.111,0.111,0.111,0.222
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Wilyer Abreu,Red Sox,RF,6,L,2.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,K. Campbell,Red Sox,2B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Connor Wong,Red Sox,C,8,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,C. Rafaela,Red Sox,CF,9,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,P. Goldschmidt,Yankees,1B,1,R,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,C. Bellinger,Yankees,CF,2,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,Aaron Judge,Yankees,RF,3,R,5.0,5.0,4.0,0.0,1.0,0.8,0.8,1.2,2.0
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,J. Chisholm,Yankees,2B,4,L,3.0,2.0,1.0,0.0,0.0,0.5,0.667,0.5,1.167
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,A. Volpe,Yankees,SS,5,R,3.0,2.0,0.0,0.0,1.0,0.0,0.333,0.0,0.333
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,Austin Wells,Yankees,C,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,J. Dominguez,Yankees,LF,7,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,Ben Rice,Yankees,DH,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,O. Cabrera,Yankees,3B,9,S,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,J. Malloy,Tigers,DH,1,R,2.0,2.0,1.0,0.0,1.0,0.5,0.5,1.0,1.5
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Andy Ibanez,Tigers,3B,2,R,4.0,3.0,1.0,0.0,0.0,0.333,0.25,0.667,0.917
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Riley Greene,Tigers,LF,3,L,6.0,6.0,4.0,0.0,2.0,0.667,0.667,0.833,1.5
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,S. Torkelson,Tigers,1B,4,R,7.0,7.0,2.0,1.0,2.0,0.286,0.286,0.857,1.143
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,M. Margot,Tigers,RF,5,R,8.0,8.0,3.0,0.0,1.0,0.375,0.375,0.625,1.0
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Colt Keith,Tigers,2B,6,L,2.0,2.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Javier Baez,Tigers,SS,7,R,15.0,15.0,2.0,0.0,7.0,0.133,0.133,0.133,0.267
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Jake Rogers,Tigers,C,8,R,4.0,4.0,1.0,0.0,2.0,0.25,0.25,0.25,0.5
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,R. Kreidler,Tigers,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,L. Nootbaar,Cardinals,LF,1,L,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,W. Contreras,Cardinals,1B,2,R,7.0,6.0,1.0,0.0,1.0,0.167,0.286,0.167,0.452
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,B. Donovan,Cardinals,2B,3,L,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,N. Arenado,Cardinals,3B,4,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,A. Burleson,Cardinals,DH,5,L,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,J. Walker,Cardinals,RF,6,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,Pedro Pages,Cardinals,C,7,R,3.0,2.0,0.0,0.0,2.0,0.0,0.333,0.0,0.333
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,Victor Scott,Cardinals,CF,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,Masyn Winn,Cardinals,SS,9,R,3.0,3.0,1.0,0.0,1.0,0.333,0.333,0.333,0.667
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Tommy Pham,Pirates,LF,1,R,4.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,B. Reynolds,Pirates,DH,2,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Joey Bart,Pirates,C,3,R,3.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,A. McCutchen,Pirates,RF,4,R,7.0,6.0,0.0,0.0,3.0,0.0,0.143,0.0,0.143
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Oneil Cruz,Pirates,CF,5,L,7.0,6.0,1.0,0.0,1.0,0.167,0.286,0.333,0.619
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,K. Hayes,Pirates,3B,6,R,10.0,9.0,1.0,0.0,1.0,0.111,0.2,0.111,0.311
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Jared Triolo,Pirates,1B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Adam Frazier,Pirates,2B,8,L,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,I. Kiner-Falefa,Pirates,SS,9,R,4.0,4.0,3.0,0.0,0.0,0.75,0.75,1.0,1.75
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,Bo Bichette,Blue Jays,SS,1,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,V. Guerrero,Blue Jays,1B,2,R,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.667,1.0
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,A. Santander,Blue Jays,RF,3,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,A. Gimenez,Blue Jays,2B,4,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,G. Springer,Blue Jays,DH,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,A. Kirk,Blue Jays,C,6,R,3.0,3.0,2.0,0.0,0.0,0.667,0.667,1.0,1.667
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,E. Clement,Blue Jays,3B,7,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,D. Schneider,Blue Jays,LF,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,Myles Straw,Blue Jays,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,Jarren Duran,Red Sox,LF,1,L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,R. Devers,Red Sox,DH,2,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,Alex Bregman,Red Sox,3B,3,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,1.0,1.5
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,T. Casas,Red Sox,1B,4,L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,Trevor Story,Red Sox,SS,5,R,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,Wilyer Abreu,Red Sox,RF,6,L,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,K. Campbell,Red Sox,2B,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,Connor Wong,Red Sox,C,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Easton Lucas,Blue Jays,L,C. Rafaela,Red Sox,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,S. Ohtani,Dodgers,DH,1,L,3.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Mookie Betts,Dodgers,SS,2,R,6.0,4.0,3.0,0.0,0.0,0.75,0.833,1.25,2.083
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Tommy Edman,Dodgers,2B,3,S,4.0,4.0,1.0,0.0,1.0,0.25,0.25,0.25,0.5
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,T. Hernandez,Dodgers,RF,4,R,3.0,3.0,1.0,1.0,1.0,0.333,0.333,1.333,1.667
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Will Smith,Dodgers,C,5,R,5.0,3.0,1.0,0.0,1.0,0.333,0.6,0.333,0.933
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,M. Conforto,Dodgers,LF,6,L,3.0,2.0,2.0,1.0,0.0,1.0,1.0,3.0,4.0
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Max Muncy,Dodgers,3B,7,L,5.0,5.0,1.0,1.0,2.0,0.2,0.2,0.8,1.0
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,E. Hernandez,Dodgers,1B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Andy Pages,Dodgers,CF,9,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,CJ Abrams,Nationals,SS,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,James Wood,Nationals,LF,2,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Keibert Ruiz,Nationals,C,3,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,N. Lowe,Nationals,1B,4,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Josh Bell,Nationals,DH,5,S,6.0,6.0,1.0,0.0,1.0,0.167,0.167,0.167,0.333
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Luis Garcia,Nationals,2B,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Paul DeJong,Nationals,3B,7,R,5.0,5.0,1.0,0.0,3.0,0.2,0.2,0.2,0.4
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Dylan Crews,Nationals,RF,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Jacob Young,Nationals,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,X. Edwards,Marlins,SS,1,S,7.0,7.0,1.0,0.0,2.0,0.143,0.143,0.286,0.429
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Kyle Stowers,Marlins,RF,2,L,3.0,3.0,1.0,1.0,2.0,0.333,0.333,1.333,1.667
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Otto Lopez,Marlins,2B,3,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Matt Mervis,Marlins,1B,4,L,5.0,4.0,0.0,0.0,2.0,0.0,0.2,0.0,0.2
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Jonah Bride,Marlins,DH,5,R,2.0,1.0,0.0,0.0,1.0,0.0,0.5,0.0,0.5
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,G. Conine,Marlins,LF,6,L,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Derek Hill,Marlins,CF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,G. Pauley,Marlins,3B,8,L,2.0,2.0,1.0,0.0,1.0,0.5,0.5,1.0,1.5
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Nick Fortes,Marlins,C,9,R,4.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,F. Lindor,Mets,SS,1,S,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.333,0.667
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Juan Soto,Mets,RF,2,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Pete Alonso,Mets,1B,3,R,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.333,0.667
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,B. Nimmo,Mets,LF,4,L,3.0,2.0,1.0,1.0,0.0,0.5,0.667,2.0,2.667
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Jesse Winker,Mets,DH,5,L,2.0,2.0,1.0,0.0,0.0,0.5,0.5,0.5,1.0
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Mark Vientos,Mets,3B,6,R,3.0,3.0,1.0,0.0,1.0,0.333,0.333,0.333,0.667
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Luis Torrens,Mets,C,7,R,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Brett Baty,Mets,2B,8,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Jose Siri,Mets,CF,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Matt Wallner,Twins,RF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,C. Correa,Twins,SS,2,R,6.0,5.0,0.0,0.0,2.0,0.0,0.167,0.0,0.167
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Byron Buxton,Twins,CF,3,R,5.0,5.0,1.0,0.0,1.0,0.2,0.2,0.2,0.4
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,T. Larnach,Twins,DH,4,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Ty France,Twins,1B,5,R,11.0,11.0,3.0,0.0,0.0,0.273,0.273,0.364,0.636
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Willi Castro,Twins,3B,6,S,4.0,3.0,1.0,0.0,1.0,0.333,0.5,0.333,0.833
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Ryan Jeffers,Twins,C,7,R,3.0,2.0,1.0,0.0,0.0,0.5,0.667,1.0,1.667
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,E. Julien,Twins,2B,8,L,6.0,6.0,2.0,0.0,1.0,0.333,0.333,0.5,0.833
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,H. Bader,Twins,LF,9,R,8.0,6.0,1.0,0.0,3.0,0.167,0.375,0.167,0.542
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,J. India,Royals,3B,1,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,Bobby Witt,Royals,SS,2,R,5.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,V. Pasquantino,Royals,1B,3,L,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,S. Perez,Royals,C,4,R,4.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,M. Massey,Royals,DH,5,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,H. Renfroe,Royals,RF,6,R,4.0,4.0,1.0,0.0,1.0,0.25,0.25,0.5,0.75
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,MJ Melendez,Royals,LF,7,L,2.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,M. Garcia,Royals,2B,8,R,5.0,5.0,1.0,0.0,0.0,0.2,0.2,0.2,0.4
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,Kyle Isbel,Royals,CF,9,L,2.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,M. Semien,Rangers,2B,1,R,5.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Corey Seager,Rangers,SS,2,L,5.0,5.0,2.0,0.0,1.0,0.4,0.4,0.6,1.0
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,W. Langford,Rangers,LF,3,R,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,A. Garcia,Rangers,RF,4,R,3.0,2.0,1.0,1.0,0.0,0.5,0.667,2.0,2.667
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Jake Burger,Rangers,1B,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Josh Smith,Rangers,3B,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,K. Higashioka,Rangers,C,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,E. Duran,Rangers,DH,8,R,4.0,4.0,1.0,0.0,2.0,0.25,0.25,0.5,0.75
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Kevin Pillar,Rangers,CF,9,R,9.0,9.0,1.0,1.0,4.0,0.111,0.111,0.444,0.556
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Ian Happ,Cubs,LF,1,S,6.0,6.0,1.0,0.0,2.0,0.167,0.167,0.333,0.5
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Kyle Tucker,Cubs,RF,2,L,25.0,22.0,4.0,1.0,5.0,0.182,0.28,0.409,0.689
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Seiya Suzuki,Cubs,DH,3,R,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.667,1.0
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,M. Busch,Cubs,1B,4,L,2.0,1.0,0.0,0.0,1.0,0.0,0.5,0.0,0.5
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,D. Swanson,Cubs,SS,5,R,9.0,7.0,0.0,0.0,2.0,0.0,0.111,0.0,0.111
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Nico Hoerner,Cubs,2B,6,R,5.0,4.0,2.0,0.0,0.0,0.5,0.6,0.5,1.1
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,P. Crow-Armstrong,Cubs,CF,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Matt Shaw,Cubs,3B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Carson Kelly,Cubs,C,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Jose Altuve,Astros,LF,1,R,36.0,33.0,11.0,1.0,8.0,0.333,0.389,0.576,0.965
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,I. Paredes,Astros,3B,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Y. Alvarez,Astros,DH,3,L,31.0,28.0,8.0,1.0,8.0,0.286,0.355,0.536,0.891
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,C. Walker,Astros,1B,4,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Yainer Diaz,Astros,C,5,R,12.0,12.0,3.0,1.0,3.0,0.25,0.25,0.583,0.833
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Jeremy Pena,Astros,SS,6,R,25.0,23.0,1.0,0.0,5.0,0.043,0.083,0.043,0.127
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Cam Smith,Astros,RF,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,B. Rodgers,Astros,2B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Jake Meyers,Astros,CF,9,R,15.0,14.0,4.0,0.0,5.0,0.286,0.333,0.429,0.762
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,D. Canzone,Mariners,RF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,J. Rodriguez,Mariners,CF,2,R,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Cal Raleigh,Mariners,C,3,S,2.0,2.0,2.0,0.0,0.0,1.0,1.0,1.5,2.5
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,R. Arozarena,Mariners,LF,4,R,3.0,2.0,0.0,0.0,0.0,0.0,0.333,0.0,0.333
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,J. Polanco,Mariners,3B,5,S,3.0,3.0,1.0,1.0,1.0,0.333,0.333,1.333,1.667
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Luke Raley,Mariners,DH,6,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Rowdy Tellez,Mariners,1B,7,L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Ryan Bliss,Mariners,2B,8,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,J. Crawford,Mariners,SS,9,L,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,G. Henderson,Orioles,SS,1,L,6.0,6.0,2.0,0.0,1.0,0.333,0.333,0.333,0.667
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,A. Rutschman,Orioles,C,2,S,6.0,5.0,1.0,1.0,0.0,0.2,0.333,0.8,1.133
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,J. Westburg,Orioles,3B,3,R,2.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,Ryan O'Hearn,Orioles,DH,4,L,8.0,8.0,3.0,0.0,1.0,0.375,0.375,0.5,0.875
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,T. O'Neill,Orioles,RF,5,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,R. Mountcastle,Orioles,1B,6,R,6.0,6.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,H. Kjerstad,Orioles,LF,7,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,C. Mullins,Orioles,CF,8,L,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,J. Holliday,Orioles,2B,9,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,C. Carroll,Diamondbacks,RF,1,L,3.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,G. Perdomo,Diamondbacks,SS,2,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,Pavin Smith,Diamondbacks,DH,3,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,Josh Naylor,Diamondbacks,1B,4,L,6.0,4.0,2.0,0.0,0.0,0.5,0.667,0.75,1.417
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,L. Gurriel,Diamondbacks,LF,5,R,6.0,6.0,2.0,0.0,3.0,0.333,0.333,0.5,0.833
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,E. Suarez,Diamondbacks,3B,6,R,12.0,11.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,G. Moreno,Diamondbacks,C,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,Alek Thomas,Diamondbacks,CF,8,L,3.0,3.0,1.0,0.0,0.0,0.333,0.333,0.333,0.667
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,Tim Tawa,Diamondbacks,2B,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,TJ Friedl,Reds,CF,1,L,13.0,13.0,2.0,0.0,2.0,0.154,0.154,0.231,0.385
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,Matt McLain,Reds,2B,2,R,6.0,6.0,1.0,1.0,2.0,0.167,0.167,0.667,0.833
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,E. De La Cruz,Reds,SS,3,S,13.0,12.0,4.0,0.0,5.0,0.333,0.385,0.333,0.718
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,Gavin Lux,Reds,LF,4,L,29.0,25.0,6.0,0.0,5.0,0.24,0.345,0.4,0.745
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,J. Candelario,Reds,3B,5,S,14.0,14.0,3.0,0.0,2.0,0.214,0.214,0.214,0.429
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,C. Encarnacion-Strand,Reds,1B,6,R,7.0,7.0,4.0,0.0,0.0,0.571,0.571,0.714,1.286
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,S. Steer,Reds,DH,7,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,Jake Fraley,Reds,RF,8,L,11.0,9.0,0.0,0.0,3.0,0.0,0.182,0.0,0.182
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,Jose Trevino,Reds,C,9,R,4.0,3.0,0.0,0.0,2.0,0.0,0.25,0.0,0.25
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,LaMonte Wade,Giants,1B,1,L,9.0,9.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Willy Adames,Giants,SS,2,R,19.0,16.0,3.0,2.0,7.0,0.188,0.316,0.563,0.878
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Jung Hoo Lee,Giants,CF,3,L,2.0,1.0,0.0,0.0,1.0,0.0,0.5,0.0,0.5
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Matt Chapman,Giants,3B,4,R,9.0,9.0,1.0,0.0,5.0,0.111,0.111,0.111,0.222
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Heliot Ramos,Giants,LF,5,R,5.0,5.0,1.0,1.0,3.0,0.2,0.2,0.8,1.0
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,P. Bailey,Giants,C,6,S,7.0,7.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,W. Flores,Giants,DH,7,R,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,M. Yastrzemski,Giants,RF,8,L,6.0,4.0,2.0,0.0,0.0,0.5,0.667,0.5,1.167
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,T. Fitzgerald,Giants,2B,9,R,4.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,F. Tatis,Padres,RF,1,R,3.0,3.0,1.0,1.0,1.0,0.333,0.333,1.333,1.667
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,Luis Arraez,Padres,1B,2,L,5.0,5.0,3.0,0.0,0.0,0.6,0.6,0.6,1.2
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,M. Machado,Padres,3B,3,R,21.0,19.0,4.0,3.0,11.0,0.211,0.286,0.737,1.023
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,J. Merrill,Padres,CF,4,L,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,J. Cronenworth,Padres,2B,5,L,6.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,X. Bogaerts,Padres,SS,6,R,33.0,31.0,3.0,0.0,8.0,0.097,0.152,0.129,0.281
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,Gavin Sheets,Padres,DH,7,L,3.0,3.0,1.0,0.0,1.0,0.333,0.333,0.333,0.667
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,J. Heyward,Padres,LF,8,L,4.0,4.0,3.0,1.0,0.0,0.75,0.75,1.75,2.5
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,Elias Diaz,Padres,C,9,R,2.0,2.0,1.0,0.0,0.0,0.5,0.5,1.0,1.5
+2025-04-07,10:05 PM ET,Michael King,Padres,R,L. Butler,Athletics,RF,1,L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Brent Rooker,Athletics,DH,2,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-04-07,10:05 PM ET,Michael King,Padres,R,JJ Bleday,Athletics,CF,3,L,3.0,2.0,1.0,0.0,1.0,0.5,0.667,0.5,1.167
+2025-04-07,10:05 PM ET,Michael King,Padres,R,S. Langeliers,Athletics,C,4,R,2.0,2.0,1.0,0.0,1.0,0.5,0.5,0.5,1.0
+2025-04-07,10:05 PM ET,Michael King,Padres,R,T. Soderstrom,Athletics,1B,5,L,2.0,1.0,0.0,0.0,1.0,0.0,0.5,0.0,0.5
+2025-04-07,10:05 PM ET,Michael King,Padres,R,M. Andujar,Athletics,LF,6,R,3.0,3.0,1.0,0.0,2.0,0.333,0.333,0.333,0.667
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Gio Urshela,Athletics,3B,7,R,5.0,5.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Max Muncy,Athletics,2B,8,R,13.0,12.0,2.0,1.0,6.0,0.167,0.231,0.5,0.731
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Jacob Wilson,Athletics,SS,9,R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
