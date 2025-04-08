@@ -67,7 +67,7 @@
   
   <div id="TodayGame" class="tabcontent">
     <div class="slideshow-container">
-      <img id="todayGameSlide" src="today_game/Angels_vs_Guardians_today.png" alt="Today Game Matchups">
+      <img id="todayGameSlide" src="today_game/Astros_vs_Mariners_today.png" alt="Today Game Matchups">
     </div>
     <div>
       <button class="nav-button" onclick="prevTodayGame()">Previous</button>
@@ -87,7 +87,7 @@
   
   <div id="TomorrowGame" class="tabcontent">
     <div class="slideshow-container">
-      <img id="tomorrowGameSlide" src="tomorrow_game/Astros_vs_Mariners_tomorrow.png" alt="Tomorrow Game Matchups">
+      <img id="tomorrowGameSlide" src="tomorrow_game/Angels_vs_Rays_tomorrow.png" alt="Tomorrow Game Matchups">
     </div>
     <div>
       <button class="nav-button" onclick="prevTomorrowGame()">Previous</button>
@@ -121,7 +121,7 @@
     }
     document.getElementById("defaultOpen").click();
     
-    var todayGameImages = ["today_game/Angels_vs_Guardians_today.png", "today_game/Athletics_vs_Rockies_today.png", "today_game/Brewers_vs_Reds_today.png", "today_game/Cubs_vs_Padres_today.png", "today_game/Dodgers_vs_Phillies_today.png", "today_game/Guardians_vs_Angels_today.png", "today_game/Mets_vs_Blue Jays_today.png", "today_game/Orioles_vs_Royals_today.png", "today_game/Phillies_vs_Dodgers_today.png", "today_game/Rangers_vs_Rays_today.png", "today_game/Red Sox_vs_Cardinals_today.png", "today_game/Rockies_vs_Athletics_today.png", "today_game/Tigers_vs_White Sox_today.png", "today_game/White Sox_vs_Tigers_today.png"];
+    var todayGameImages = ["today_game/Astros_vs_Mariners_today.png", "today_game/Blue Jays_vs_Red Sox_today.png", "today_game/Cubs_vs_Rangers_today.png", "today_game/Dodgers_vs_Nationals_today.png", "today_game/Mariners_vs_Astros_today.png", "today_game/Mets_vs_Marlins_today.png", "today_game/Orioles_vs_Diamondbacks_today.png", "today_game/Pirates_vs_Cardinals_today.png", "today_game/Red Sox_vs_Blue Jays_today.png", "today_game/Royals_vs_Twins_today.png", "today_game/Twins_vs_Royals_today.png"];
     var todayGameIndex = 0;
     function showTodayGameImage(index) {
       document.getElementById("todayGameSlide").src = todayGameImages[index];
@@ -149,7 +149,7 @@
       showTodayBPImage(todayBPIndex);
     }
     
-    var tomorrowGameImages = ["tomorrow_game/Astros_vs_Mariners_tomorrow.png", "tomorrow_game/Blue Jays_vs_Red Sox_tomorrow.png", "tomorrow_game/Cubs_vs_Rangers_tomorrow.png", "tomorrow_game/Dodgers_vs_Nationals_tomorrow.png", "tomorrow_game/Mariners_vs_Astros_tomorrow.png", "tomorrow_game/Mets_vs_Marlins_tomorrow.png", "tomorrow_game/Orioles_vs_Diamondbacks_tomorrow.png", "tomorrow_game/Pirates_vs_Cardinals_tomorrow.png", "tomorrow_game/Red Sox_vs_Blue Jays_tomorrow.png", "tomorrow_game/Royals_vs_Twins_tomorrow.png", "tomorrow_game/Twins_vs_Royals_tomorrow.png"];
+    var tomorrowGameImages = ["tomorrow_game/Angels_vs_Rays_tomorrow.png", "tomorrow_game/Athletics_vs_Padres_tomorrow.png", "tomorrow_game/Braves_vs_Phillies_tomorrow.png", "tomorrow_game/Cardinals_vs_Pirates_tomorrow.png", "tomorrow_game/Diamondbacks_vs_Orioles_tomorrow.png", "tomorrow_game/Giants_vs_Reds_tomorrow.png", "tomorrow_game/Mariners_vs_Astros_tomorrow.png", "tomorrow_game/Mets_vs_Marlins_tomorrow.png", "tomorrow_game/Orioles_vs_Diamondbacks_tomorrow.png", "tomorrow_game/Phillies_vs_Braves_tomorrow.png", "tomorrow_game/Rangers_vs_Cubs_tomorrow.png", "tomorrow_game/Red Sox_vs_Blue Jays_tomorrow.png", "tomorrow_game/Rockies_vs_Brewers_tomorrow.png", "tomorrow_game/Tigers_vs_Yankees_tomorrow.png", "tomorrow_game/White Sox_vs_Guardians_tomorrow.png"];
     var tomorrowGameIndex = 0;
     function showTomorrowGameImage(index) {
       document.getElementById("tomorrowGameSlide").src = tomorrowGameImages[index];

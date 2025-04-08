@@ -1,307 +1,199 @@
 date,game_time,pitcher_name,pitcher_team,pitcher_throws,batter_name,batter_team,batter_position,batting_order,batter_bats
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,C. Carroll,Diamondbacks,RF,1,L
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,G. Perdomo,Diamondbacks,SS,2,S
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,Pavin Smith,Diamondbacks,DH,3,L
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,Josh Naylor,Diamondbacks,1B,4,L
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,L. Gurriel,Diamondbacks,LF,5,R
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,E. Suarez,Diamondbacks,3B,6,R
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,Alek Thomas,Diamondbacks,CF,7,L
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,Jose Herrera,Diamondbacks,C,8,S
-2025-04-06,1:35 PM ET,Trevor Williams,Nationals,R,G. Hampson,Diamondbacks,2B,9,R
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,CJ Abrams,Nationals,SS,1,L
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Luis Garcia,Nationals,2B,2,L
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Keibert Ruiz,Nationals,C,3,S
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,N. Lowe,Nationals,1B,4,L
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,James Wood,Nationals,LF,5,L
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Josh Bell,Nationals,DH,6,S
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Alex Call,Nationals,RF,7,R
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Paul DeJong,Nationals,3B,8,R
-2025-04-06,1:35 PM ET,Corbin Burnes,Diamondbacks,R,Dylan Crews,Nationals,CF,9,R
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,S. Ohtani,Dodgers,DH,1,L
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Mookie Betts,Dodgers,SS,2,R
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Tommy Edman,Dodgers,2B,3,S
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,T. Hernandez,Dodgers,RF,4,R
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Will Smith,Dodgers,C,5,R
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,M. Conforto,Dodgers,LF,6,L
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Max Muncy,Dodgers,3B,7,L
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,E. Hernandez,Dodgers,1B,8,R
-2025-04-06,1:35 PM ET,C. Sanchez,Phillies,L,Andy Pages,Dodgers,CF,9,R
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,K. Schwarber,Phillies,DH,1,L
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Trea Turner,Phillies,SS,2,R
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Bryce Harper,Phillies,1B,3,L
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Max Kepler,Phillies,LF,4,L
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,N. Castellanos,Phillies,RF,5,R
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Bryson Stott,Phillies,2B,6,L
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,Edmundo Sosa,Phillies,3B,7,R
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,B. Marsh,Phillies,CF,8,L
-2025-04-06,1:35 PM ET,Tyler Glasnow,Dodgers,R,R. Marchan,Phillies,C,9,S
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,P. Goldschmidt,Yankees,1B,1,R
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,C. Bellinger,Yankees,RF,2,L
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,Aaron Judge,Yankees,DH,3,R
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,J. Chisholm,Yankees,2B,4,L
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,A. Volpe,Yankees,SS,5,R
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,Austin Wells,Yankees,C,6,L
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,J. Dominguez,Yankees,LF,7,S
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,O. Peraza,Yankees,3B,8,R
-2025-04-06,1:35 PM ET,Andrew Heaney,Pirates,L,T. Grisham,Yankees,CF,9,L
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,K. Hayes,Pirates,3B,1,R
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,B. Reynolds,Pirates,DH,2,S
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Oneil Cruz,Pirates,CF,3,L
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Joey Bart,Pirates,C,4,R
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,A. McCutchen,Pirates,RF,5,R
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,E. Valdez,Pirates,1B,6,L
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Tommy Pham,Pirates,LF,7,R
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,Adam Frazier,Pirates,2B,8,L
-2025-04-06,1:35 PM ET,Will Warren,Yankees,R,I. Kiner-Falefa,Pirates,SS,9,R
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,L. Nootbaar,Cardinals,LF,1,L
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Ivan Herrera,Cardinals,C,2,R
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,W. Contreras,Cardinals,1B,3,R
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,N. Arenado,Cardinals,3B,4,R
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Luken Baker,Cardinals,DH,5,R
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,J. Walker,Cardinals,RF,6,R
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,T. Saggese,Cardinals,2B,7,R
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Victor Scott,Cardinals,CF,8,L
-2025-04-06,1:35 PM ET,Sean Newcomb,Red Sox,L,Masyn Winn,Cardinals,SS,9,R
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,L. Nootbaar,Cardinals,LF,1,L
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,W. Contreras,Cardinals,DH,2,R
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,B. Donovan,Cardinals,2B,3,L
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,N. Arenado,Cardinals,3B,4,R
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,A. Burleson,Cardinals,1B,5,L
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,J. Walker,Cardinals,RF,6,R
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,Pedro Pages,Cardinals,C,7,R
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,Victor Scott,Cardinals,CF,8,L
-2025-04-06,7:10 PM ET,Sean Newcomb,Red Sox,L,Masyn Winn,Cardinals,SS,9,R
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Jarren Duran,Red Sox,LF,1,L
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,R. Devers,Red Sox,DH,2,L
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Alex Bregman,Red Sox,3B,3,R
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,T. Casas,Red Sox,1B,4,L
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Trevor Story,Red Sox,SS,5,R
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,R. Refsnyder,Red Sox,RF,6,R
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,K. Campbell,Red Sox,CF,7,R
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,D. Hamilton,Red Sox,2B,8,L
-2025-04-06,1:35 PM ET,Andre Pallante,Cardinals,R,Connor Wong,Red Sox,C,9,R
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Jarren Duran,Red Sox,LF,1,L
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,R. Devers,Red Sox,DH,2,L
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Alex Bregman,Red Sox,3B,3,R
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Wilyer Abreu,Red Sox,RF,4,L
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,Trevor Story,Red Sox,SS,5,R
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,K. Campbell,Red Sox,2B,6,R
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,R. Gonzalez,Red Sox,1B,7,R
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,C. Narvaez,Red Sox,C,8,R
-2025-04-06,7:10 PM ET,Andre Pallante,Cardinals,R,C. Rafaela,Red Sox,CF,9,R
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,M. Tauchman,White Sox,RF,1,L
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,Luis Robert,White Sox,CF,2,R
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,A. Benintendi,White Sox,DH,3,L
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,A. Vaughn,White Sox,1B,4,R
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,Matt Thaiss,White Sox,C,5,L
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,M. Vargas,White Sox,3B,6,R
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,B. Baldwin,White Sox,2B,7,S
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,Jacob Amaya,White Sox,SS,8,R
-2025-04-06,1:40 PM ET,Jackson Jobe,Tigers,R,M. Taylor,White Sox,LF,9,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,J. Malloy,Tigers,DH,1,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Andy Ibanez,Tigers,3B,2,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,S. Torkelson,Tigers,1B,3,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,M. Margot,Tigers,RF,4,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,D. Dingler,Tigers,C,5,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,K. Carpenter,Tigers,LF,6,L
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Javier Baez,Tigers,SS,7,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,R. Kreidler,Tigers,CF,8,R
-2025-04-06,1:40 PM ET,Martin Perez,White Sox,L,Z. McKinstry,Tigers,2B,9,L
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,Bo Bichette,Blue Jays,SS,1,R
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,V. Guerrero,Blue Jays,1B,2,R
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,A. Santander,Blue Jays,RF,3,S
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,A. Gimenez,Blue Jays,2B,4,L
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,A. Kirk,Blue Jays,DH,5,R
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,E. Clement,Blue Jays,3B,6,R
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,D. Schneider,Blue Jays,LF,7,R
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,T. Heineman,Blue Jays,C,8,S
-2025-04-06,1:40 PM ET,David Peterson,Mets,L,Myles Straw,Blue Jays,CF,9,R
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,F. Lindor,Mets,SS,1,S
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Juan Soto,Mets,RF,2,L
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Pete Alonso,Mets,1B,3,R
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,B. Nimmo,Mets,LF,4,L
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Jesse Winker,Mets,DH,5,L
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Mark Vientos,Mets,3B,6,R
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Brett Baty,Mets,2B,7,L
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,Jose Siri,Mets,CF,8,R
-2025-04-06,1:40 PM ET,Bowden Francis,Blue Jays,R,H. Senger,Mets,C,9,R
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,G. Henderson,Orioles,SS,1,L
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,A. Rutschman,Orioles,C,2,S
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,J. Westburg,Orioles,2B,3,R
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,T. O'Neill,Orioles,RF,4,R
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,R. Mountcastle,Orioles,1B,5,R
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,R. Laureano,Orioles,LF,6,R
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,Gary Sanchez,Orioles,DH,7,R
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,Ramon Urias,Orioles,3B,8,R
-2025-04-06,2:10 PM ET,Kris Bubic,Royals,L,Jorge Mateo,Orioles,CF,9,R
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,J. India,Royals,3B,1,R
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,Bobby Witt,Royals,SS,2,R
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,V. Pasquantino,Royals,DH,3,L
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,S. Perez,Royals,1B,4,R
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,Mark Canha,Royals,LF,5,R
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,M. Massey,Royals,2B,6,L
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,H. Renfroe,Royals,RF,7,R
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,M. Garcia,Royals,CF,8,R
-2025-04-06,2:10 PM ET,Cade Povich,Orioles,L,F. Fermin,Royals,C,9,R
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,TJ Friedl,Reds,CF,1,L
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,S. Espinal,Reds,2B,2,R
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,E. De La Cruz,Reds,SS,3,S
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,Gavin Lux,Reds,LF,4,L
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,J. Candelario,Reds,3B,5,S
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,C. Encarnacion-Strand,Reds,1B,6,R
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,S. Steer,Reds,DH,7,R
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,Jake Fraley,Reds,RF,8,L
-2025-04-06,2:10 PM ET,Chad Patrick,Brewers,R,Austin Wynns,Reds,C,9,R
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Brice Turang,Brewers,2B,1,L
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,J. Chourio,Brewers,LF,2,R
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,C. Yelich,Brewers,DH,3,L
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,G. Mitchell,Brewers,CF,4,L
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Sal Frelick,Brewers,RF,5,L
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Jake Bauers,Brewers,1B,6,L
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Joey Ortiz,Brewers,SS,7,R
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Oliver Dunn,Brewers,3B,8,L
-2025-04-06,2:10 PM ET,Carson Spiers,Reds,R,Eric Haase,Brewers,C,9,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Jose Altuve,Astros,LF,1,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,I. Paredes,Astros,3B,2,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Y. Alvarez,Astros,DH,3,L
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,C. Walker,Astros,1B,4,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Jeremy Pena,Astros,SS,5,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Yainer Diaz,Astros,C,6,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,B. Rodgers,Astros,2B,7,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Zach Dezenzo,Astros,RF,8,R
-2025-04-06,2:10 PM ET,Chris Paddack,Twins,R,Jake Meyers,Astros,CF,9,R
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Matt Wallner,Twins,RF,1,L
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,C. Correa,Twins,SS,2,R
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Byron Buxton,Twins,CF,3,R
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,T. Larnach,Twins,DH,4,L
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Willi Castro,Twins,3B,5,S
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,Ryan Jeffers,Twins,C,6,R
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,E. Julien,Twins,2B,7,L
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,M. Gasper,Twins,1B,8,S
-2025-04-06,2:10 PM ET,Ronel Blanco,Astros,R,H. Bader,Twins,LF,9,R
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,F. Tatis,Padres,RF,1,R
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,Luis Arraez,Padres,1B,2,L
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,M. Machado,Padres,3B,3,R
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,J. Merrill,Padres,CF,4,L
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,J. Cronenworth,Padres,2B,5,L
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,X. Bogaerts,Padres,SS,6,R
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,Gavin Sheets,Padres,DH,7,L
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,J. Heyward,Padres,LF,8,L
-2025-04-06,2:20 PM ET,Ben Brown,Cubs,R,Elias Diaz,Padres,C,9,R
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Ian Happ,Cubs,LF,1,S
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Seiya Suzuki,Cubs,DH,2,R
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Kyle Tucker,Cubs,RF,3,L
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,J. Turner,Cubs,1B,4,R
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,D. Swanson,Cubs,SS,5,R
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Nico Hoerner,Cubs,2B,6,R
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,P. Crow-Armstrong,Cubs,CF,7,L
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Matt Shaw,Cubs,3B,8,R
-2025-04-06,2:20 PM ET,Kyle Hart,Padres,L,Carson Kelly,Cubs,C,9,R
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Yandy Diaz,Rays,DH,1,R
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Brandon Lowe,Rays,2B,2,L
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,J. Caminero,Rays,3B,3,R
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,J. Aranda,Rays,1B,4,L
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,C. Morel,Rays,LF,5,R
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,K. Misner,Rays,CF,6,L
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Jake Mangum,Rays,RF,7,S
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Taylor Walls,Rays,SS,8,S
-2025-04-06,2:35 PM ET,Kumar Rocker,Rangers,R,Ben Rortvedt,Rays,C,9,L
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,M. Semien,Rangers,2B,1,R
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Corey Seager,Rangers,SS,2,L
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,W. Langford,Rangers,LF,3,R
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Joc Pederson,Rangers,DH,4,L
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,A. Garcia,Rangers,RF,5,R
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Jake Burger,Rangers,1B,6,R
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Josh Smith,Rangers,3B,7,L
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,Jonah Heim,Rangers,C,8,S
-2025-04-06,2:35 PM ET,Drew Rasmussen,Rays,R,L. Taveras,Rangers,CF,9,S
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,L. Butler,Athletics,RF,1,L
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Brent Rooker,Athletics,DH,2,R
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,JJ Bleday,Athletics,CF,3,L
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,T. Soderstrom,Athletics,1B,4,L
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Jacob Wilson,Athletics,SS,5,R
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,M. Andujar,Athletics,LF,6,R
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Gio Urshela,Athletics,3B,7,R
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,J. Pereda,Athletics,C,8,R
-2025-04-06,3:10 PM ET,Chase Dollander,Rockies,R,Max Muncy,Athletics,2B,9,R
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,B. Doyle,Rockies,CF,1,R
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,E. Tovar,Rockies,SS,2,R
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Ryan McMahon,Rockies,3B,3,L
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,H. Goodman,Rockies,C,4,R
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Kris Bryant,Rockies,DH,5,R
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,M. Toglia,Rockies,1B,6,S
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,Nick Martini,Rockies,RF,7,L
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,T. Freeman,Rockies,2B,8,R
-2025-04-06,3:10 PM ET,Joey Estes,Athletics,R,M. Moniak,Rockies,LF,9,L
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,V. Robles,Mariners,RF,1,R
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,J. Rodriguez,Mariners,CF,2,R
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Cal Raleigh,Mariners,C,3,S
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,R. Arozarena,Mariners,LF,4,R
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Luke Raley,Mariners,1B,5,L
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Rowdy Tellez,Mariners,DH,6,L
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Dylan Moore,Mariners,3B,7,R
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,Ryan Bliss,Mariners,2B,8,R
-2025-04-06,4:05 PM ET,Jordan Hicks,Giants,R,J. Crawford,Mariners,SS,9,L
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,LaMonte Wade,Giants,1B,1,L
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Willy Adames,Giants,SS,2,R
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Jung Hoo Lee,Giants,CF,3,L
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Matt Chapman,Giants,3B,4,R
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Heliot Ramos,Giants,DH,5,R
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,M. Yastrzemski,Giants,RF,6,L
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,Luis Matos,Giants,LF,7,R
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,P. Bailey,Giants,C,8,S
-2025-04-06,4:05 PM ET,Bryan Woo,Mariners,R,C. Koss,Giants,2B,9,R
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,Steven Kwan,Guardians,LF,1,L
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,Jose Ramirez,Guardians,3B,2,S
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,C. Santana,Guardians,DH,3,S
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,Lane Thomas,Guardians,CF,4,R
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,K. Manzardo,Guardians,1B,5,L
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,J. Noel,Guardians,RF,6,R
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,G. Arias,Guardians,2B,7,R
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,A. Hedges,Guardians,C,8,R
-2025-04-06,4:07 PM ET,Tyler Anderson,Angels,L,B. Rocchio,Guardians,SS,9,S
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Taylor Ward,Angels,LF,1,R
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Luis Rengifo,Angels,3B,2,S
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Mike Trout,Angels,DH,3,R
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Jorge Soler,Angels,RF,4,R
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,L. O'Hoppe,Angels,C,5,R
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,N. Schanuel,Angels,1B,6,L
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Kyren Paris,Angels,2B,7,R
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Jo Adell,Angels,CF,8,R
-2025-04-06,4:07 PM ET,Luis L. Ortiz,Guardians,R,Tim Anderson,Angels,SS,9,R
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,L. Nootbaar,Cardinals,LF,1,L
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,Ivan Herrera,Cardinals,C,2,R
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,W. Contreras,Cardinals,1B,3,R
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,N. Arenado,Cardinals,3B,4,R
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,Luken Baker,Cardinals,DH,5,R
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,J. Walker,Cardinals,RF,6,R
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,T. Saggese,Cardinals,2B,7,R
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,Victor Scott,Cardinals,CF,8,L
-2025-04-06,1:35 PM ET,Hunter Dobbins,Red Sox,R,Masyn Winn,Cardinals,SS,9,R
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,L. Nootbaar,Cardinals,LF,1,L
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,W. Contreras,Cardinals,DH,2,R
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,B. Donovan,Cardinals,2B,3,L
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,N. Arenado,Cardinals,3B,4,R
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,A. Burleson,Cardinals,1B,5,L
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,J. Walker,Cardinals,RF,6,R
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,Pedro Pages,Cardinals,C,7,R
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,Victor Scott,Cardinals,CF,8,L
-2025-04-06,7:10 PM ET,Hunter Dobbins,Red Sox,R,Masyn Winn,Cardinals,SS,9,R
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Jarren Duran,Red Sox,LF,1,L
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,R. Devers,Red Sox,DH,2,L
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Alex Bregman,Red Sox,3B,3,R
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,T. Casas,Red Sox,1B,4,L
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Trevor Story,Red Sox,SS,5,R
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,R. Refsnyder,Red Sox,RF,6,R
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,K. Campbell,Red Sox,CF,7,R
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,D. Hamilton,Red Sox,2B,8,L
-2025-04-06,1:35 PM ET,Miles Mikolas,Cardinals,R,Connor Wong,Red Sox,C,9,R
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Jarren Duran,Red Sox,LF,1,L
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,R. Devers,Red Sox,DH,2,L
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Alex Bregman,Red Sox,3B,3,R
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Wilyer Abreu,Red Sox,RF,4,L
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,Trevor Story,Red Sox,SS,5,R
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,K. Campbell,Red Sox,2B,6,R
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,R. Gonzalez,Red Sox,1B,7,R
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,C. Narvaez,Red Sox,C,8,R
-2025-04-06,7:10 PM ET,Miles Mikolas,Cardinals,R,C. Rafaela,Red Sox,CF,9,R
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,Ben Rice,Yankees,DH,1,L
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,Aaron Judge,Yankees,RF,2,R
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,C. Bellinger,Yankees,LF,3,L
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,P. Goldschmidt,Yankees,1B,4,R
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,J. Chisholm,Yankees,2B,5,L
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,A. Volpe,Yankees,SS,6,R
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,Austin Wells,Yankees,C,7,L
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,T. Grisham,Yankees,CF,8,L
+2025-04-07,3:10 PM ET,Casey Mize,Tigers,R,O. Cabrera,Yankees,3B,9,S
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,J. Malloy,Tigers,DH,1,R
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Andy Ibanez,Tigers,3B,2,R
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,S. Torkelson,Tigers,1B,3,R
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Riley Greene,Tigers,LF,4,L
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,M. Margot,Tigers,RF,5,R
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Javier Baez,Tigers,SS,6,R
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Colt Keith,Tigers,2B,7,L
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,Jake Rogers,Tigers,C,8,R
+2025-04-07,3:10 PM ET,Carlos Rodon,Yankees,L,R. Kreidler,Tigers,CF,9,R
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,L. Nootbaar,Cardinals,LF,1,L
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,W. Contreras,Cardinals,1B,2,R
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,B. Donovan,Cardinals,2B,3,L
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,A. Burleson,Cardinals,DH,4,L
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,J. Walker,Cardinals,RF,5,R
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,T. Saggese,Cardinals,3B,6,R
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,Yohel Pozo,Cardinals,C,7,R
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,M. Siani,Cardinals,CF,8,L
+2025-04-07,6:40 PM ET,C. Mlodzinski,Pirates,R,Masyn Winn,Cardinals,SS,9,R
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,K. Hayes,Pirates,3B,1,R
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,A. McCutchen,Pirates,DH,2,R
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Joey Bart,Pirates,C,3,R
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Oneil Cruz,Pirates,CF,4,L
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Tommy Pham,Pirates,LF,5,R
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,A. Canario,Pirates,RF,6,R
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,E. Rodriguez,Pirates,1B,7,S
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,I. Kiner-Falefa,Pirates,SS,8,R
+2025-04-07,6:40 PM ET,M. Liberatore,Cardinals,L,Adam Frazier,Pirates,2B,9,L
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,Bo Bichette,Blue Jays,SS,1,R
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,V. Guerrero,Blue Jays,1B,2,R
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,A. Santander,Blue Jays,DH,3,S
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,A. Gimenez,Blue Jays,2B,4,L
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,G. Springer,Blue Jays,RF,5,R
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,A. Kirk,Blue Jays,C,6,R
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,Will Wagner,Blue Jays,3B,7,L
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,Nathan Lukes,Blue Jays,CF,8,L
+2025-04-07,6:45 PM ET,Richard Fitts,Red Sox,R,Alan Roden,Blue Jays,LF,9,L
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,Jarren Duran,Red Sox,LF,1,L
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,R. Devers,Red Sox,DH,2,L
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,Alex Bregman,Red Sox,3B,3,R
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,T. Casas,Red Sox,1B,4,L
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,Trevor Story,Red Sox,SS,5,R
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,Wilyer Abreu,Red Sox,RF,6,L
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,Connor Wong,Red Sox,C,7,R
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,D. Hamilton,Red Sox,2B,8,L
+2025-04-07,6:45 PM ET,Jose Berrios,Blue Jays,R,C. Rafaela,Red Sox,CF,9,R
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,S. Ohtani,Dodgers,DH,1,L
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Mookie Betts,Dodgers,SS,2,R
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Tommy Edman,Dodgers,CF,3,S
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,T. Hernandez,Dodgers,RF,4,R
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Will Smith,Dodgers,C,5,R
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,E. Hernandez,Dodgers,1B,6,R
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Max Muncy,Dodgers,3B,7,L
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Miguel Rojas,Dodgers,2B,8,R
+2025-04-07,6:45 PM ET,MacKenzie Gore,Nationals,L,Chris Taylor,Dodgers,LF,9,R
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,James Wood,Nationals,LF,1,L
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Alex Call,Nationals,RF,2,R
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Luis Garcia,Nationals,2B,3,L
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Keibert Ruiz,Nationals,C,4,S
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,N. Lowe,Nationals,1B,5,L
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Josh Bell,Nationals,DH,6,S
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Paul DeJong,Nationals,SS,7,R
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Jose Tena,Nationals,3B,8,L
+2025-04-07,6:45 PM ET,Dustin May,Dodgers,R,Dylan Crews,Nationals,CF,9,R
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,X. Edwards,Marlins,SS,1,S
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Kyle Stowers,Marlins,RF,2,L
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Otto Lopez,Marlins,2B,3,R
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Matt Mervis,Marlins,DH,4,L
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Eric Wagaman,Marlins,1B,5,R
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,G. Conine,Marlins,LF,6,L
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Dane Myers,Marlins,CF,7,R
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,G. Pauley,Marlins,3B,8,L
+2025-04-07,7:10 PM ET,Kodai Senga,Mets,R,Nick Fortes,Marlins,C,9,R
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,F. Lindor,Mets,SS,1,S
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Juan Soto,Mets,RF,2,L
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Pete Alonso,Mets,1B,3,R
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,B. Nimmo,Mets,LF,4,L
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Mark Vientos,Mets,3B,5,R
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,Jesse Winker,Mets,DH,6,L
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,T. Taylor,Mets,CF,7,R
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,L. Acuna,Mets,2B,8,R
+2025-04-07,7:10 PM ET,Valente Bellozo,Marlins,R,H. Senger,Mets,C,9,R
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Matt Wallner,Twins,RF,1,L
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,C. Correa,Twins,SS,2,R
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Byron Buxton,Twins,CF,3,R
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,T. Larnach,Twins,DH,4,L
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Ty France,Twins,1B,5,R
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Jose Miranda,Twins,3B,6,R
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,Willi Castro,Twins,2B,7,S
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,H. Bader,Twins,LF,8,R
+2025-04-07,7:40 PM ET,Michael Lorenzen,Royals,R,C. Vazquez,Twins,C,9,R
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,J. India,Royals,3B,1,R
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,Bobby Witt,Royals,SS,2,R
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,V. Pasquantino,Royals,1B,3,L
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,S. Perez,Royals,C,4,R
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,M. Massey,Royals,2B,5,L
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,H. Renfroe,Royals,RF,6,R
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,MJ Melendez,Royals,LF,7,L
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,M. Garcia,Royals,DH,8,R
+2025-04-07,7:40 PM ET,S. Woods Richardson,Twins,R,Kyle Isbel,Royals,CF,9,L
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,M. Semien,Rangers,2B,1,R
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Corey Seager,Rangers,SS,2,L
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,W. Langford,Rangers,LF,3,R
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,A. Garcia,Rangers,RF,4,R
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Kevin Pillar,Rangers,CF,5,R
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Jake Burger,Rangers,1B,6,R
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Josh Smith,Rangers,3B,7,L
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,Jonah Heim,Rangers,DH,8,S
+2025-04-07,7:40 PM ET,Justin Steele,Cubs,L,K. Higashioka,Rangers,C,9,R
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Ian Happ,Cubs,LF,1,S
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Kyle Tucker,Cubs,RF,2,L
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Seiya Suzuki,Cubs,DH,3,R
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,M. Busch,Cubs,1B,4,L
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,D. Swanson,Cubs,SS,5,R
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Miguel Amaya,Cubs,C,6,R
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,P. Crow-Armstrong,Cubs,CF,7,L
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Jon Berti,Cubs,2B,8,R
+2025-04-07,7:40 PM ET,Nathan Eovaldi,Rangers,R,Gage Workman,Cubs,3B,9,L
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Jose Altuve,Astros,2B,1,R
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,I. Paredes,Astros,3B,2,R
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Y. Alvarez,Astros,LF,3,L
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,C. Walker,Astros,1B,4,R
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Jeremy Pena,Astros,SS,5,R
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,V. Caratini,Astros,C,6,S
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Yainer Diaz,Astros,DH,7,R
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,Jake Meyers,Astros,CF,8,R
+2025-04-07,9:40 PM ET,Logan Gilbert,Mariners,R,M. Dubon,Astros,RF,9,R
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,J. Rodriguez,Mariners,CF,1,R
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,J. Polanco,Mariners,DH,2,S
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,R. Arozarena,Mariners,LF,3,R
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Cal Raleigh,Mariners,C,4,S
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Luke Raley,Mariners,RF,5,L
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Rowdy Tellez,Mariners,1B,6,L
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Dylan Moore,Mariners,3B,7,R
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,Ryan Bliss,Mariners,2B,8,R
+2025-04-07,9:40 PM ET,Hayden Wesneski,Astros,R,J. Crawford,Mariners,SS,9,L
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,G. Henderson,Orioles,SS,1,L
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,A. Rutschman,Orioles,C,2,S
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,Ryan O'Hearn,Orioles,RF,3,L
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,J. Westburg,Orioles,DH,4,R
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,C. Mullins,Orioles,CF,5,L
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,R. Mountcastle,Orioles,1B,6,R
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,H. Kjerstad,Orioles,LF,7,L
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,Ramon Urias,Orioles,3B,8,R
+2025-04-07,9:40 PM ET,Zac Gallen,Diamondbacks,R,J. Holliday,Orioles,2B,9,L
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,C. Carroll,Diamondbacks,RF,1,L
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,G. Perdomo,Diamondbacks,SS,2,S
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,Pavin Smith,Diamondbacks,DH,3,L
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,Josh Naylor,Diamondbacks,1B,4,L
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,L. Gurriel,Diamondbacks,LF,5,R
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,E. Suarez,Diamondbacks,3B,6,R
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,G. Moreno,Diamondbacks,C,7,R
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,J. McCarthy,Diamondbacks,CF,8,L
+2025-04-07,9:40 PM ET,Zach Eflin,Orioles,R,Tim Tawa,Diamondbacks,2B,9,R
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,TJ Friedl,Reds,CF,1,L
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,Blake Dunn,Reds,RF,2,R
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,E. De La Cruz,Reds,SS,3,S
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,Gavin Lux,Reds,2B,4,L
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,C. Encarnacion-Strand,Reds,1B,5,R
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,J. Candelario,Reds,3B,6,S
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,S. Steer,Reds,DH,7,R
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,J. Hurtubise,Reds,LF,8,L
+2025-04-07,9:45 PM ET,Logan Webb,Giants,R,Jose Trevino,Reds,C,9,R
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,LaMonte Wade,Giants,1B,1,L
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Willy Adames,Giants,SS,2,R
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Jung Hoo Lee,Giants,CF,3,L
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Matt Chapman,Giants,3B,4,R
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,Heliot Ramos,Giants,LF,5,R
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,M. Yastrzemski,Giants,RF,6,L
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,W. Flores,Giants,DH,7,R
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,P. Bailey,Giants,C,8,S
+2025-04-07,9:45 PM ET,Hunter Greene,Reds,R,T. Fitzgerald,Giants,2B,9,R
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,F. Tatis,Padres,RF,1,R
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,Luis Arraez,Padres,1B,2,L
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,M. Machado,Padres,3B,3,R
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,J. Cronenworth,Padres,2B,4,L
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,Gavin Sheets,Padres,DH,5,L
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,X. Bogaerts,Padres,SS,6,R
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,J. Heyward,Padres,LF,7,L
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,B. Lockridge,Padres,CF,8,R
+2025-04-07,10:05 PM ET,Luis Severino,Athletics,R,Elias Diaz,Padres,C,9,R
+2025-04-07,10:05 PM ET,Michael King,Padres,R,L. Butler,Athletics,RF,1,L
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Brent Rooker,Athletics,DH,2,R
+2025-04-07,10:05 PM ET,Michael King,Padres,R,T. Soderstrom,Athletics,1B,3,L
+2025-04-07,10:05 PM ET,Michael King,Padres,R,S. Langeliers,Athletics,C,4,R
+2025-04-07,10:05 PM ET,Michael King,Padres,R,JJ Bleday,Athletics,CF,5,L
+2025-04-07,10:05 PM ET,Michael King,Padres,R,M. Andujar,Athletics,LF,6,R
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Jacob Wilson,Athletics,SS,7,R
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Gio Urshela,Athletics,3B,8,R
+2025-04-07,10:05 PM ET,Michael King,Padres,R,Max Muncy,Athletics,2B,9,R
